@@ -2,6 +2,9 @@ async function nactiSlovicka() {
   const res = await fetch("/slovicka");
   let slovicka = await res.json();
 
+  // Odstranění slovíček, která mají NepravidelnáSlovesa (libovolné číslo)
+  slovicka = slovicka.filter(slovo => !slovo.hasOwnProperty("NepravidelnáSlovesa"));
+
   // Zajistíme, že každé slovíčko má timestamp (fallback na 0)
   slovicka.forEach(slovo => {
     if (!slovo.timestamp) slovo.timestamp = 0;
@@ -18,6 +21,7 @@ async function nactiSlovicka() {
 
   zobrazTabulku(slovicka);
 }
+
 
 function zobrazTabulku(slovicka) {
   const select = document.getElementById("razeni");
@@ -39,7 +43,6 @@ function zobrazTabulku(slovicka) {
     tr.innerHTML = `
   <td title="${slovo.cz}">${slovo.cz}</td>
   <td title="${slovo.en}">${slovo.en}</td>
-  <td title="${slovo.en_vyslovnost || ""}">${slovo.en_vyslovnost || ""}</td>
   <td>${slovo.trida}</td>
   <td>${slovo.unit}</td>
   <td title="${slovo.subunit || ""}">${slovo.subunit || ""}</td>
@@ -61,7 +64,6 @@ async function upravSlovo(timestamp) {
   const form = document.getElementById("slovicko-form");
   form.cz.value = slovo.cz;
   form.en.value = slovo.en;
-  form.en_vyslovnost.value = slovo.en_vyslovnost || "";
   form.trida.value = slovo.trida;
   form.unit.value = slovo.unit;
   form.subunit.value = slovo.subunit || "";
@@ -97,7 +99,6 @@ document.getElementById("slovicko-form").addEventListener("submit", async functi
   const slovicko = {
     cz: form.cz.value.trim(),
     en: form.en.value.trim(),
-    en_vyslovnost: form.en_vyslovnost.value.trim(),
     trida: parseInt(form.trida.value),
     unit: parseInt(form.unit.value),
     subunit: form.subunit.value.trim()
