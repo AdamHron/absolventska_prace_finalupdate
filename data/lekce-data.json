@@ -1,56 +1,8422 @@
 [
   {
-    "cz": "ccc",
-    "en": "cc",
-    "en_vyslovnost": "cc",
-    "trida": 4,
+    "en": "to be",
+    "cz": "být",
+    "PastSimple": "was, were",
+    "PastParticiple": "been",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713199888
+  },
+  {
+    "en": "to become",
+    "cz": "stát se",
+    "PastSimple": "became",
+    "PastParticiple": "become",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713200888
+  },
+  {
+    "en": "to begin",
+    "cz": "začít",
+    "PastSimple": "began",
+    "PastParticiple": "begun",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713201888
+  },
+  {
+    "en": "to bite",
+    "cz": "kousat",
+    "PastSimple": "bit",
+    "PastParticiple": "bitten",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713202888
+  },
+  {
+    "en": "to break",
+    "cz": "zlomit, rozbít",
+    "PastSimple": "broke",
+    "PastParticiple": "broken",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713203888
+  },
+  {
+    "en": "to bring",
+    "cz": "přinést",
+    "PastSimple": "brought",
+    "PastParticiple": "brought",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713204888
+  },
+  {
+    "en": "to build",
+    "cz": "stavět, postavit",
+    "PastSimple": "built",
+    "PastParticiple": "built",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713205888
+  },
+  {
+    "en": "to burn",
+    "cz": "spálit",
+    "PastSimple": "burnt",
+    "PastParticiple": "burnt",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713206888
+  },
+  {
+    "en": "to buy",
+    "cz": "koupit",
+    "PastSimple": "bought",
+    "PastParticiple": "bought",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713207888
+  },
+  {
+    "en": "to catch",
+    "cz": "chytit",
+    "PastSimple": "caught",
+    "PastParticiple": "caught",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713208888
+  },
+  {
+    "en": "to come",
+    "cz": "přijít, přijet",
+    "PastSimple": "came",
+    "PastParticiple": "come",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713209888
+  },
+  {
+    "en": "to cost",
+    "cz": "stát (cena)",
+    "PastSimple": "cost",
+    "PastParticiple": "cost",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713210888
+  },
+  {
+    "en": "to cut",
+    "cz": "stříhat, řezat",
+    "PastSimple": "cut",
+    "PastParticiple": "cut",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713211888
+  },
+  {
+    "en": "to dig",
+    "cz": "hloubit, kopat",
+    "PastSimple": "dug",
+    "PastParticiple": "dug",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713212888
+  },
+  {
+    "en": "to do",
+    "cz": "dělat",
+    "PastSimple": "did",
+    "PastParticiple": "done",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713213888
+  },
+  {
+    "en": "to draw",
+    "cz": "kreslit",
+    "PastSimple": "drew",
+    "PastParticiple": "drawn",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713214888
+  },
+  {
+    "en": "to drink",
+    "cz": "pít",
+    "PastSimple": "drank",
+    "PastParticiple": "drunk",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713215888
+  },
+  {
+    "en": "to drive",
+    "cz": "řídit",
+    "PastSimple": "drove",
+    "PastParticiple": "driven",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713216888
+  },
+  {
+    "en": "to eat",
+    "cz": "jíst",
+    "PastSimple": "ate",
+    "PastParticiple": "eaten",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713217888
+  },
+  {
+    "en": "to fall",
+    "cz": "padat",
+    "PastSimple": "fell",
+    "PastParticiple": "fallen",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713218888
+  },
+  {
+    "en": "to feel",
+    "cz": "cítit",
+    "PastSimple": "felt",
+    "PastParticiple": "felt",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713219888
+  },
+  {
+    "en": "to fight",
+    "cz": "bojovat, prát se",
+    "PastSimple": "fought",
+    "PastParticiple": "fought",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713220888
+  },
+  {
+    "en": "to find",
+    "cz": "najít",
+    "PastSimple": "found",
+    "PastParticiple": "found",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713221888
+  },
+  {
+    "en": "to fly",
+    "cz": "létat",
+    "PastSimple": "flew",
+    "PastParticiple": "flown",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713222888
+  },
+  {
+    "en": "to get",
+    "cz": "dostat, získat",
+    "PastSimple": "got",
+    "PastParticiple": "got",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713223888
+  },
+  {
+    "en": "to give",
+    "cz": "dát, věnovat",
+    "PastSimple": "gave",
+    "PastParticiple": "given",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713224888
+  },
+  {
+    "en": "to go",
+    "cz": "jít, jet",
+    "PastSimple": "went",
+    "PastParticiple": "been, gone",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713225888
+  },
+  {
+    "en": "to grow",
+    "cz": "růst",
+    "PastSimple": "grew",
+    "PastParticiple": "grown",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713226888
+  },
+  {
+    "en": "to have",
+    "cz": "mít",
+    "PastSimple": "had",
+    "PastParticiple": "had",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713227888
+  },
+  {
+    "en": "to hear",
+    "cz": "slyšet",
+    "PastSimple": "heard",
+    "PastParticiple": "heard",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713228888
+  },
+  {
+    "en": "to hide",
+    "cz": "schovat",
+    "PastSimple": "hid",
+    "PastParticiple": "hidden",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713229888
+  },
+  {
+    "en": "to hit",
+    "cz": "udeřit, narazit",
+    "PastSimple": "hit",
+    "PastParticiple": "hit",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713230888
+  },
+  {
+    "en": "to hold",
+    "cz": "držet",
+    "PastSimple": "held",
+    "PastParticiple": "held",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713231888
+  },
+  {
+    "en": "to hurt",
+    "cz": "(z)ranit se, bolet",
+    "PastSimple": "hurt",
+    "PastParticiple": "hurt",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713232888
+  },
+  {
+    "en": "to keep",
+    "cz": "udržet, chovat",
+    "PastSimple": "kept",
+    "PastParticiple": "kept",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713233888
+  },
+  {
+    "en": "to know",
+    "cz": "vědět, znát",
+    "PastSimple": "knew",
+    "PastParticiple": "known",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713234888
+  },
+  {
+    "en": "to learn",
+    "cz": "učit se, dozvědět se",
+    "PastSimple": "learnt",
+    "PastParticiple": "learnt",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713235888
+  },
+  {
+    "en": "to leave",
+    "cz": "odejít, opustit",
+    "PastSimple": "left",
+    "PastParticiple": "left",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713236888
+  },
+  {
+    "en": "to lie",
+    "cz": "ležet",
+    "PastSimple": "lay",
+    "PastParticiple": "lain",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713237888
+  },
+  {
+    "en": "to lose",
+    "cz": "ztratit",
+    "PastSimple": "lost",
+    "PastParticiple": "lost",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713238888
+  },
+  {
+    "en": "to make",
+    "cz": "dělat, vyrábět",
+    "PastSimple": "made",
+    "PastParticiple": "made",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713239888
+  },
+  {
+    "en": "to mean",
+    "cz": "znamenat",
+    "PastSimple": "meant",
+    "PastParticiple": "meant",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713240888
+  },
+  {
+    "en": "to pay",
+    "cz": "(za)platit",
+    "PastSimple": "paid",
+    "PastParticiple": "paid",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713241888
+  },
+  {
+    "en": "to put",
+    "cz": "dát, položit",
+    "PastSimple": "put",
+    "PastParticiple": "put",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713242888
+  },
+  {
+    "en": "to read",
+    "cz": "číst",
+    "PastSimple": "read",
+    "PastParticiple": "read",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713243888
+  },
+  {
+    "en": "to ride",
+    "cz": "jezdit (na)",
+    "PastSimple": "rode",
+    "PastParticiple": "ridden",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713244888
+  },
+  {
+    "en": "to ring",
+    "cz": "zvonit",
+    "PastSimple": "rang",
+    "PastParticiple": "rung",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713245888
+  },
+  {
+    "en": "to run",
+    "cz": "běhat",
+    "PastSimple": "ran",
+    "PastParticiple": "run",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713246888
+  },
+  {
+    "en": "to say",
+    "cz": "říci (něco)",
+    "PastSimple": "said",
+    "PastParticiple": "said",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713247888
+  },
+  {
+    "en": "to see",
+    "cz": "vidět",
+    "PastSimple": "saw",
+    "PastParticiple": "seen",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713248888
+  },
+  {
+    "en": "to sell",
+    "cz": "prodat",
+    "PastSimple": "sold",
+    "PastParticiple": "sold",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713249888
+  },
+  {
+    "en": "to send",
+    "cz": "poslat",
+    "PastSimple": "sent",
+    "PastParticiple": "sent",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713250888
+  },
+  {
+    "en": "to set",
+    "cz": "nastavit",
+    "PastSimple": "set",
+    "PastParticiple": "set",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713251888
+  },
+  {
+    "en": "to sing",
+    "cz": "zpívat",
+    "PastSimple": "sang",
+    "PastParticiple": "sung",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713252888
+  },
+  {
+    "en": "to sink",
+    "cz": "potopit (se)",
+    "PastSimple": "sank",
+    "PastParticiple": "sunk",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713253888
+  },
+  {
+    "en": "to sit",
+    "cz": "sedět",
+    "PastSimple": "sat",
+    "PastParticiple": "sat",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713254888
+  },
+  {
+    "en": "to smell",
+    "cz": "vonět, páchnout",
+    "PastSimple": "smelt",
+    "PastParticiple": "smelt",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713255888
+  },
+  {
+    "en": "to speak",
+    "cz": "mluvit",
+    "PastSimple": "spoke",
+    "PastParticiple": "spoken",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713256888
+  },
+  {
+    "en": "to spell",
+    "cz": "hláskovat",
+    "PastSimple": "spelt",
+    "PastParticiple": "spelt",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713257888
+  },
+  {
+    "en": "to spend",
+    "cz": "strávit, utratit",
+    "PastSimple": "spent",
+    "PastParticiple": "spent",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713258888
+  },
+  {
+    "en": "to stand",
+    "cz": "stát, postavit",
+    "PastSimple": "stood",
+    "PastParticiple": "stood",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713259888
+  },
+  {
+    "en": "to steal",
+    "cz": "krást",
+    "PastSimple": "stole",
+    "PastParticiple": "stolen",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713260888
+  },
+  {
+    "en": "to stick",
+    "cz": "(při)lepit",
+    "PastSimple": "stuck",
+    "PastParticiple": "stuck",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713261888
+  },
+  {
+    "en": "to sweep",
+    "cz": "zametat",
+    "PastSimple": "swept",
+    "PastParticiple": "swept",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713262888
+  },
+  {
+    "en": "to swim",
+    "cz": "plavat",
+    "PastSimple": "swam",
+    "PastParticiple": "swum",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713263888
+  },
+  {
+    "en": "to take",
+    "cz": "vzít",
+    "PastSimple": "took",
+    "PastParticiple": "taken",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713264888
+  },
+  {
+    "en": "to teach",
+    "cz": "učit",
+    "PastSimple": "taught",
+    "PastParticiple": "taught",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713265888
+  },
+  {
+    "en": "to tear",
+    "cz": "trhat",
+    "PastSimple": "tore",
+    "PastParticiple": "torn",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713266888
+  },
+  {
+    "en": "to tell",
+    "cz": "říci (komu)",
+    "PastSimple": "told",
+    "PastParticiple": "told",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713267888
+  },
+  {
+    "en": "to think",
+    "cz": "myslet",
+    "PastSimple": "thought",
+    "PastParticiple": "thought",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713268888
+  },
+  {
+    "en": "to throw",
+    "cz": "házet",
+    "PastSimple": "threw",
+    "PastParticiple": "thrown",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713269888
+  },
+  {
+    "en": "to understand",
+    "cz": "rozumět",
+    "PastSimple": "understood",
+    "PastParticiple": "understood",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713270888
+  },
+  {
+    "en": "to wake",
+    "cz": "(vz)budit (se)",
+    "PastSimple": "woke",
+    "PastParticiple": "woken",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713271888
+  },
+  {
+    "en": "to wear",
+    "cz": "nosit, mít na sobě",
+    "PastSimple": "wore",
+    "PastParticiple": "worn",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713272888
+  },
+  {
+    "en": "to win",
+    "cz": "vyhrát",
+    "PastSimple": "won",
+    "PastParticiple": "won",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713273888
+  },
+  {
+    "en": "to write",
+    "cz": "psát",
+    "PastSimple": "wrote",
+    "PastParticiple": "written",
+    "NepravidelnáSlovesa": 1,
+    "timestamp": 1748713274888
+  },
+  {
+    "en": "to be",
+    "cz": "být",
+    "PastSimple": "was, were",
+    "PastParticiple": "been",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713275888
+  },
+  {
+    "en": "to become",
+    "cz": "stát se",
+    "PastSimple": "became",
+    "PastParticiple": "become",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713276888
+  },
+  {
+    "en": "to begin",
+    "cz": "začít",
+    "PastSimple": "began",
+    "PastParticiple": "begun",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713277888
+  },
+  {
+    "en": "to bite",
+    "cz": "kousat",
+    "PastSimple": "bit",
+    "PastParticiple": "bitten",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713278888
+  },
+  {
+    "en": "to break",
+    "cz": "zlomit, rozbít",
+    "PastSimple": "broke",
+    "PastParticiple": "broken",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713279888
+  },
+  {
+    "en": "to bring",
+    "cz": "přinést",
+    "PastSimple": "brought",
+    "PastParticiple": "brought",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713280888
+  },
+  {
+    "en": "to build",
+    "cz": "stavět, postavit",
+    "PastSimple": "built",
+    "PastParticiple": "built",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713281888
+  },
+  {
+    "en": "to burn",
+    "cz": "spálit",
+    "PastSimple": "burnt",
+    "PastParticiple": "burnt",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713282888
+  },
+  {
+    "en": "to buy",
+    "cz": "koupit",
+    "PastSimple": "bought",
+    "PastParticiple": "bought",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713283888
+  },
+  {
+    "en": "to catch",
+    "cz": "chytit",
+    "PastSimple": "caught",
+    "PastParticiple": "caught",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713284888
+  },
+  {
+    "en": "to come",
+    "cz": "přijít, přijet",
+    "PastSimple": "came",
+    "PastParticiple": "come",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713285888
+  },
+  {
+    "en": "to cost",
+    "cz": "stát (cena)",
+    "PastSimple": "cost",
+    "PastParticiple": "cost",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713286888
+  },
+  {
+    "en": "to cut",
+    "cz": "stříhat, řezat",
+    "PastSimple": "cut",
+    "PastParticiple": "cut",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713287888
+  },
+  {
+    "en": "to dig",
+    "cz": "hloubit, kopat",
+    "PastSimple": "dug",
+    "PastParticiple": "dug",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713288888
+  },
+  {
+    "en": "to do",
+    "cz": "dělat",
+    "PastSimple": "did",
+    "PastParticiple": "done",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713289888
+  },
+  {
+    "en": "to draw",
+    "cz": "kreslit",
+    "PastSimple": "drew",
+    "PastParticiple": "drawn",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713290888
+  },
+  {
+    "en": "to drink",
+    "cz": "pít",
+    "PastSimple": "drank",
+    "PastParticiple": "drunk",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713291888
+  },
+  {
+    "en": "to drive",
+    "cz": "řídit",
+    "PastSimple": "drove",
+    "PastParticiple": "driven",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713292888
+  },
+  {
+    "en": "to eat",
+    "cz": "jíst",
+    "PastSimple": "ate",
+    "PastParticiple": "eaten",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713293888
+  },
+  {
+    "en": "to fall",
+    "cz": "padat",
+    "PastSimple": "fell",
+    "PastParticiple": "fallen",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713294888
+  },
+  {
+    "en": "to feel",
+    "cz": "cítit",
+    "PastSimple": "felt",
+    "PastParticiple": "felt",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713295888
+  },
+  {
+    "en": "to fight",
+    "cz": "bojovat, prát se",
+    "PastSimple": "fought",
+    "PastParticiple": "fought",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713296888
+  },
+  {
+    "en": "to find",
+    "cz": "najít",
+    "PastSimple": "found",
+    "PastParticiple": "found",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713297888
+  },
+  {
+    "en": "to fly",
+    "cz": "létat",
+    "PastSimple": "flew",
+    "PastParticiple": "flown",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713298888
+  },
+  {
+    "en": "to get",
+    "cz": "dostat, získat",
+    "PastSimple": "got",
+    "PastParticiple": "got",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713299888
+  },
+  {
+    "en": "to give",
+    "cz": "dát, věnovat",
+    "PastSimple": "gave",
+    "PastParticiple": "given",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713300888
+  },
+  {
+    "en": "to go",
+    "cz": "jít, jet",
+    "PastSimple": "went",
+    "PastParticiple": "been, gone",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713301888
+  },
+  {
+    "en": "to grow",
+    "cz": "růst",
+    "PastSimple": "grew",
+    "PastParticiple": "grown",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713302888
+  },
+  {
+    "en": "to have",
+    "cz": "mít",
+    "PastSimple": "had",
+    "PastParticiple": "had",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713303888
+  },
+  {
+    "en": "to hear",
+    "cz": "slyšet",
+    "PastSimple": "heard",
+    "PastParticiple": "heard",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713304888
+  },
+  {
+    "en": "to hide",
+    "cz": "schovat",
+    "PastSimple": "hid",
+    "PastParticiple": "hidden",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713305888
+  },
+  {
+    "en": "to hit",
+    "cz": "udeřit, narazit",
+    "PastSimple": "hit",
+    "PastParticiple": "hit",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713306888
+  },
+  {
+    "en": "to hold",
+    "cz": "držet",
+    "PastSimple": "held",
+    "PastParticiple": "held",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713307888
+  },
+  {
+    "en": "to hurt",
+    "cz": "(z)ranit se, bolet",
+    "PastSimple": "hurt",
+    "PastParticiple": "hurt",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713308888
+  },
+  {
+    "en": "to keep",
+    "cz": "udržet, chovat",
+    "PastSimple": "kept",
+    "PastParticiple": "kept",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713309888
+  },
+  {
+    "en": "to know",
+    "cz": "vědět, znát",
+    "PastSimple": "knew",
+    "PastParticiple": "known",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713310888
+  },
+  {
+    "en": "to learn",
+    "cz": "učit se, dozvědět se",
+    "PastSimple": "learnt",
+    "PastParticiple": "learnt",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713311888
+  },
+  {
+    "en": "to leave",
+    "cz": "odejít, opustit",
+    "PastSimple": "left",
+    "PastParticiple": "left",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713312888
+  },
+  {
+    "en": "to lie",
+    "cz": "ležet",
+    "PastSimple": "lay",
+    "PastParticiple": "lain",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713313888
+  },
+  {
+    "en": "to lose",
+    "cz": "ztratit",
+    "PastSimple": "lost",
+    "PastParticiple": "lost",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713314888
+  },
+  {
+    "en": "to make",
+    "cz": "dělat, vyrábět",
+    "PastSimple": "made",
+    "PastParticiple": "made",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713315888
+  },
+  {
+    "en": "to mean",
+    "cz": "znamenat",
+    "PastSimple": "meant",
+    "PastParticiple": "meant",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713316888
+  },
+  {
+    "en": "to write",
+    "cz": "psát",
+    "PastSimple": "wrote",
+    "PastParticiple": "written",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713317888
+  },
+  {
+    "en": "to win",
+    "cz": "vyhrát",
+    "PastSimple": "won",
+    "PastParticiple": "won",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713318888
+  },
+  {
+    "en": "to wear",
+    "cz": "nosit, mít na sobě",
+    "PastSimple": "wore",
+    "PastParticiple": "worn",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713319888
+  },
+  {
+    "en": "to wake",
+    "cz": "(vz)budit (se)",
+    "PastSimple": "woke",
+    "PastParticiple": "woken",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713320888
+  },
+  {
+    "en": "to understand",
+    "cz": "rozumět",
+    "PastSimple": "understood",
+    "PastParticiple": "understood",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713321888
+  },
+  {
+    "en": "to throw",
+    "cz": "házet",
+    "PastSimple": "threw",
+    "PastParticiple": "thrown",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713322888
+  },
+  {
+    "en": "to think",
+    "cz": "myslet",
+    "PastSimple": "thought",
+    "PastParticiple": "thought",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713323888
+  },
+  {
+    "en": "to tell",
+    "cz": "říci (komu)",
+    "PastSimple": "told",
+    "PastParticiple": "told",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713324888
+  },
+  {
+    "en": "to tear",
+    "cz": "trhat",
+    "PastSimple": "tore",
+    "PastParticiple": "torn",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713325888
+  },
+  {
+    "en": "to teach",
+    "cz": "učit",
+    "PastSimple": "taught",
+    "PastParticiple": "taught",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713326888
+  },
+  {
+    "en": "to take",
+    "cz": "vzít",
+    "PastSimple": "took",
+    "PastParticiple": "taken",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713327888
+  },
+  {
+    "en": "to swim",
+    "cz": "plavat",
+    "PastSimple": "swam",
+    "PastParticiple": "swum",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713328888
+  },
+  {
+    "en": "to sweep",
+    "cz": "zametat",
+    "PastSimple": "swept",
+    "PastParticiple": "swept",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713329888
+  },
+  {
+    "en": "to stick",
+    "cz": "(při)lepit",
+    "PastSimple": "stuck",
+    "PastParticiple": "stuck",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713330888
+  },
+  {
+    "en": "to steal",
+    "cz": "krást",
+    "PastSimple": "stole",
+    "PastParticiple": "stolen",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713331888
+  },
+  {
+    "en": "to stand",
+    "cz": "stát, postavit",
+    "PastSimple": "stood",
+    "PastParticiple": "stood",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713332888
+  },
+  {
+    "en": "to spend",
+    "cz": "strávit, utratit",
+    "PastSimple": "spent",
+    "PastParticiple": "spent",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713333888
+  },
+  {
+    "en": "to spell",
+    "cz": "hláskovat",
+    "PastSimple": "spelt",
+    "PastParticiple": "spelt",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713334888
+  },
+  {
+    "en": "to speak",
+    "cz": "mluvit",
+    "PastSimple": "spoke",
+    "PastParticiple": "spoken",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713335888
+  },
+  {
+    "en": "to smell",
+    "cz": "vonět, páchnout",
+    "PastSimple": "smelt",
+    "PastParticiple": "smelt",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713336888
+  },
+  {
+    "en": "to sit",
+    "cz": "sedět",
+    "PastSimple": "sat",
+    "PastParticiple": "sat",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713337888
+  },
+  {
+    "en": "to sink",
+    "cz": "potopit (se)",
+    "PastSimple": "sank",
+    "PastParticiple": "sunk",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713338888
+  },
+  {
+    "en": "to sing",
+    "cz": "zpívat",
+    "PastSimple": "sang",
+    "PastParticiple": "sung",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713339888
+  },
+  {
+    "en": "to set",
+    "cz": "nastavit",
+    "PastSimple": "set",
+    "PastParticiple": "set",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713340888
+  },
+  {
+    "en": "to send",
+    "cz": "poslat",
+    "PastSimple": "sent",
+    "PastParticiple": "sent",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713341888
+  },
+  {
+    "en": "to sell",
+    "cz": "prodat",
+    "PastSimple": "sold",
+    "PastParticiple": "sold",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713342888
+  },
+  {
+    "en": "to see",
+    "cz": "vidět",
+    "PastSimple": "saw",
+    "PastParticiple": "seen",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713343888
+  },
+  {
+    "en": "to say",
+    "cz": "říci (něco)",
+    "PastSimple": "said",
+    "PastParticiple": "said",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713344888
+  },
+  {
+    "en": "to run",
+    "cz": "běhat",
+    "PastSimple": "ran",
+    "PastParticiple": "run",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713345888
+  },
+  {
+    "en": "to ring",
+    "cz": "zvonit",
+    "PastSimple": "rang",
+    "PastParticiple": "rung",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713346888
+  },
+  {
+    "en": "to ride",
+    "cz": "jezdit (na)",
+    "PastSimple": "rode",
+    "PastParticiple": "ridden",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713347888
+  },
+  {
+    "en": "to read",
+    "cz": "číst",
+    "PastSimple": "read",
+    "PastParticiple": "read",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713348888
+  },
+  {
+    "en": "to put",
+    "cz": "dát, položit",
+    "PastSimple": "put",
+    "PastParticiple": "put",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713349888
+  },
+  {
+    "en": "to pay",
+    "cz": "(za)platit",
+    "PastSimple": "paid",
+    "PastParticiple": "paid",
+    "NepravidelnáSlovesa": 2,
+    "timestamp": 1748713350888
+  },
+  {
+    "en": "to be",
+    "cz": "být",
+    "PastSimple": "was, were",
+    "PastParticiple": "been",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713351888
+  },
+  {
+    "en": "to become",
+    "cz": "stát se",
+    "PastSimple": "became",
+    "PastParticiple": "become",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713352888
+  },
+  {
+    "en": "to begin",
+    "cz": "začít",
+    "PastSimple": "began",
+    "PastParticiple": "begun",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713353888
+  },
+  {
+    "en": "to bite",
+    "cz": "kousat",
+    "PastSimple": "bit",
+    "PastParticiple": "bitten",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713354888
+  },
+  {
+    "en": "to break",
+    "cz": "zlomit, rozbít",
+    "PastSimple": "broke",
+    "PastParticiple": "broken",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713355888
+  },
+  {
+    "en": "to bring",
+    "cz": "přinést",
+    "PastSimple": "brought",
+    "PastParticiple": "brought",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713356888
+  },
+  {
+    "en": "to build",
+    "cz": "stavět, postavit",
+    "PastSimple": "built",
+    "PastParticiple": "built",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713357888
+  },
+  {
+    "en": "to burn",
+    "cz": "spálit",
+    "PastSimple": "burnt",
+    "PastParticiple": "burnt",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713358888
+  },
+  {
+    "en": "to buy",
+    "cz": "koupit",
+    "PastSimple": "bought",
+    "PastParticiple": "bought",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713359888
+  },
+  {
+    "en": "to catch",
+    "cz": "chytit",
+    "PastSimple": "caught",
+    "PastParticiple": "caught",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713360888
+  },
+  {
+    "en": "to come",
+    "cz": "přijít, přijet",
+    "PastSimple": "came",
+    "PastParticiple": "come",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713361888
+  },
+  {
+    "en": "to cost",
+    "cz": "stát (cena)",
+    "PastSimple": "cost",
+    "PastParticiple": "cost",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713362888
+  },
+  {
+    "en": "to cut",
+    "cz": "stříhat, řezat",
+    "PastSimple": "cut",
+    "PastParticiple": "cut",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713363888
+  },
+  {
+    "en": "to dig",
+    "cz": "hloubit, kopat",
+    "PastSimple": "dug",
+    "PastParticiple": "dug",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713364888
+  },
+  {
+    "en": "to do",
+    "cz": "dělat",
+    "PastSimple": "did",
+    "PastParticiple": "done",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713365888
+  },
+  {
+    "en": "to draw",
+    "cz": "kreslit",
+    "PastSimple": "drew",
+    "PastParticiple": "drawn",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713366888
+  },
+  {
+    "en": "to drink",
+    "cz": "pít",
+    "PastSimple": "drank",
+    "PastParticiple": "drunk",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713367888
+  },
+  {
+    "en": "to drive",
+    "cz": "řídit",
+    "PastSimple": "drove",
+    "PastParticiple": "driven",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713368888
+  },
+  {
+    "en": "to eat",
+    "cz": "jíst",
+    "PastSimple": "ate",
+    "PastParticiple": "eaten",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713369888
+  },
+  {
+    "en": "to fall",
+    "cz": "padat",
+    "PastSimple": "fell",
+    "PastParticiple": "fallen",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713370888
+  },
+  {
+    "en": "to feel",
+    "cz": "cítit",
+    "PastSimple": "felt",
+    "PastParticiple": "felt",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713371888
+  },
+  {
+    "en": "to fight",
+    "cz": "bojovat, prát se",
+    "PastSimple": "fought",
+    "PastParticiple": "fought",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713372888
+  },
+  {
+    "en": "to find",
+    "cz": "najít",
+    "PastSimple": "found",
+    "PastParticiple": "found",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713373888
+  },
+  {
+    "en": "to fly",
+    "cz": "létat",
+    "PastSimple": "flew",
+    "PastParticiple": "flown",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713374888
+  },
+  {
+    "en": "to get",
+    "cz": "dostat, získat",
+    "PastSimple": "got",
+    "PastParticiple": "got",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713375888
+  },
+  {
+    "en": "to give",
+    "cz": "dát, věnovat",
+    "PastSimple": "gave",
+    "PastParticiple": "given",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713376888
+  },
+  {
+    "en": "to go",
+    "cz": "jít, jet",
+    "PastSimple": "went",
+    "PastParticiple": "been, gone",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713377888
+  },
+  {
+    "en": "to grow",
+    "cz": "růst",
+    "PastSimple": "grew",
+    "PastParticiple": "grown",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713378888
+  },
+  {
+    "en": "to have",
+    "cz": "mít",
+    "PastSimple": "had",
+    "PastParticiple": "had",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713379888
+  },
+  {
+    "en": "to hear",
+    "cz": "slyšet",
+    "PastSimple": "heard",
+    "PastParticiple": "heard",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713380888
+  },
+  {
+    "en": "to hide",
+    "cz": "schovat",
+    "PastSimple": "hid",
+    "PastParticiple": "hidden",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713381888
+  },
+  {
+    "en": "to hit",
+    "cz": "udeřit, narazit",
+    "PastSimple": "hit",
+    "PastParticiple": "hit",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713382888
+  },
+  {
+    "en": "to hold",
+    "cz": "držet",
+    "PastSimple": "held",
+    "PastParticiple": "held",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713383888
+  },
+  {
+    "en": "to hurt",
+    "cz": "(z)ranit se, bolet",
+    "PastSimple": "hurt",
+    "PastParticiple": "hurt",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713384888
+  },
+  {
+    "en": "to keep",
+    "cz": "udržet, chovat",
+    "PastSimple": "kept",
+    "PastParticiple": "kept",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713385888
+  },
+  {
+    "en": "to know",
+    "cz": "vědět, znát",
+    "PastSimple": "knew",
+    "PastParticiple": "known",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713386888
+  },
+  {
+    "en": "to learn",
+    "cz": "učit se, dozvědět se",
+    "PastSimple": "learnt",
+    "PastParticiple": "learnt",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713387888
+  },
+  {
+    "en": "to leave",
+    "cz": "odejít, opustit",
+    "PastSimple": "left",
+    "PastParticiple": "left",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713388888
+  },
+  {
+    "en": "to lie",
+    "cz": "ležet",
+    "PastSimple": "lay",
+    "PastParticiple": "lain",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713389888
+  },
+  {
+    "en": "to lose",
+    "cz": "ztratit",
+    "PastSimple": "lost",
+    "PastParticiple": "lost",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713390888
+  },
+  {
+    "en": "to make",
+    "cz": "dělat, vyrábět",
+    "PastSimple": "made",
+    "PastParticiple": "made",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713391888
+  },
+  {
+    "en": "to mean",
+    "cz": "znamenat",
+    "PastSimple": "meant",
+    "PastParticiple": "meant",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713392888
+  },
+  {
+    "en": "to write",
+    "cz": "psát",
+    "PastSimple": "wrote",
+    "PastParticiple": "written",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713393888
+  },
+  {
+    "en": "to win",
+    "cz": "vyhrát",
+    "PastSimple": "won",
+    "PastParticiple": "won",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713394888
+  },
+  {
+    "en": "to wear",
+    "cz": "nosit, mít na sobě",
+    "PastSimple": "wore",
+    "PastParticiple": "worn",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713395888
+  },
+  {
+    "en": "to wake",
+    "cz": "(vz)budit (se)",
+    "PastSimple": "woke",
+    "PastParticiple": "woken",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713396888
+  },
+  {
+    "en": "to understand",
+    "cz": "rozumět",
+    "PastSimple": "understood",
+    "PastParticiple": "understood",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713397888
+  },
+  {
+    "en": "to throw",
+    "cz": "házet",
+    "PastSimple": "threw",
+    "PastParticiple": "thrown",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713398888
+  },
+  {
+    "en": "to think",
+    "cz": "myslet",
+    "PastSimple": "thought",
+    "PastParticiple": "thought",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713399888
+  },
+  {
+    "en": "to tell",
+    "cz": "říci (komu)",
+    "PastSimple": "told",
+    "PastParticiple": "told",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713400888
+  },
+  {
+    "en": "to tear",
+    "cz": "trhat",
+    "PastSimple": "tore",
+    "PastParticiple": "torn",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713401888
+  },
+  {
+    "en": "to teach",
+    "cz": "učit",
+    "PastSimple": "taught",
+    "PastParticiple": "taught",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713402888
+  },
+  {
+    "en": "to take",
+    "cz": "vzít",
+    "PastSimple": "took",
+    "PastParticiple": "taken",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713403888
+  },
+  {
+    "en": "to swim",
+    "cz": "plavat",
+    "PastSimple": "swam",
+    "PastParticiple": "swum",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713404888
+  },
+  {
+    "en": "to sweep",
+    "cz": "zametat",
+    "PastSimple": "swept",
+    "PastParticiple": "swept",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713405888
+  },
+  {
+    "en": "to stick",
+    "cz": "(při)lepit",
+    "PastSimple": "stuck",
+    "PastParticiple": "stuck",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713406888
+  },
+  {
+    "en": "to steal",
+    "cz": "krást",
+    "PastSimple": "stole",
+    "PastParticiple": "stolen",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713407888
+  },
+  {
+    "en": "to stand",
+    "cz": "stát, postavit",
+    "PastSimple": "stood",
+    "PastParticiple": "stood",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713408888
+  },
+  {
+    "en": "to spend",
+    "cz": "strávit, utratit",
+    "PastSimple": "spent",
+    "PastParticiple": "spent",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713409888
+  },
+  {
+    "en": "to spell",
+    "cz": "hláskovat",
+    "PastSimple": "spelt",
+    "PastParticiple": "spelt",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713410888
+  },
+  {
+    "en": "to speak",
+    "cz": "mluvit",
+    "PastSimple": "spoke",
+    "PastParticiple": "spoken",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713411888
+  },
+  {
+    "en": "to smell",
+    "cz": "vonět, páchnout",
+    "PastSimple": "smelt",
+    "PastParticiple": "smelt",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713412888
+  },
+  {
+    "en": "to sit",
+    "cz": "sedět",
+    "PastSimple": "sat",
+    "PastParticiple": "sat",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713413888
+  },
+  {
+    "en": "to sink",
+    "cz": "potopit (se)",
+    "PastSimple": "sank",
+    "PastParticiple": "sunk",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713414888
+  },
+  {
+    "en": "to sing",
+    "cz": "zpívat",
+    "PastSimple": "sang",
+    "PastParticiple": "sung",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713415888
+  },
+  {
+    "en": "to set",
+    "cz": "nastavit",
+    "PastSimple": "set",
+    "PastParticiple": "set",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713416888
+  },
+  {
+    "en": "to send",
+    "cz": "poslat",
+    "PastSimple": "sent",
+    "PastParticiple": "sent",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713417888
+  },
+  {
+    "en": "to sell",
+    "cz": "prodat",
+    "PastSimple": "sold",
+    "PastParticiple": "sold",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713418888
+  },
+  {
+    "en": "to see",
+    "cz": "vidět",
+    "PastSimple": "saw",
+    "PastParticiple": "seen",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713419888
+  },
+  {
+    "en": "to say",
+    "cz": "říci (něco)",
+    "PastSimple": "said",
+    "PastParticiple": "said",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713420888
+  },
+  {
+    "en": "to run",
+    "cz": "běhat",
+    "PastSimple": "ran",
+    "PastParticiple": "run",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713421888
+  },
+  {
+    "en": "to ring",
+    "cz": "zvonit",
+    "PastSimple": "rang",
+    "PastParticiple": "rung",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713422888
+  },
+  {
+    "en": "to ride",
+    "cz": "jezdit (na)",
+    "PastSimple": "rode",
+    "PastParticiple": "ridden",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713423888
+  },
+  {
+    "en": "to read",
+    "cz": "číst",
+    "PastSimple": "read",
+    "PastParticiple": "read",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713424888
+  },
+  {
+    "en": "to put",
+    "cz": "dát, položit",
+    "PastSimple": "put",
+    "PastParticiple": "put",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713425888
+  },
+  {
+    "en": "to pay",
+    "cz": "(za)platit",
+    "PastSimple": "paid",
+    "PastParticiple": "paid",
+    "NepravidelnáSlovesa": 3,
+    "timestamp": 1748713426888
+  },
+  {
+    "cz": "navrhnout",
+    "en": "propose",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713427888
+  },
+  {
+    "cz": "žádost, požadovat",
+    "en": "request (n, v)",
+    "en_vyslovnost": "/rı'kwest/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713428888
+  },
+  {
+    "cz": "odpověď",
+    "en": "response",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713429888
+  },
+  {
+    "cz": "vyjádřit, předložit, uvést",
+    "en": "state (v)",
+    "en_vyslovnost": "/stert/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713430888
+  },
+  {
+    "cz": "Vadilo by ti / vám...?",
+    "en": "Would you mind...?",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713431888
+  },
+  {
+    "cz": "vyplnit (formulář)",
+    "en": "fill in (a form)",
+    "en_vyslovnost": "/,fılın (ə 'fo:m)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713432888
+  },
+  {
+    "cz": "vrátit",
+    "en": "give back",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713433888
+  },
+  {
+    "cz": "převrhnout",
+    "en": "knock over",
+    "en_vyslovnost": "/nok 'ǝuvə(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713434888
+  },
+  {
+    "cz": "sesbírat, zvednout",
+    "en": "pick up",
+    "en_vyslovnost": "/pik 'ap/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713435888
+  },
+  {
+    "cz": "dát pryč",
+    "en": "put away",
+    "en_vyslovnost": "/ put ǝ'wer/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713436888
+  },
+  {
+    "cz": "obléci si, dej na",
+    "en": "put on",
+    "en_vyslovnost": "/put 'pn/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713437888
+  },
+  {
+    "cz": "vynést (odpadky)",
+    "en": "put out (rubbish)",
+    "en_vyslovnost": "/ put aut ('rabif)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713438888
+  },
+  {
+    "cz": "zapnout, rozsvítit",
+    "en": "switch on",
+    "en_vyslovnost": "/swit∫ 'pn/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713439888
+  },
+  {
+    "cz": "sundat si (boty, oblečení)",
+    "en": "take off (shoes, clothes)",
+    "en_vyslovnost": "/ teik,of ('fuiz, 'kləuðz)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713440888
+  },
+  {
+    "cz": "vyhodit",
+    "en": "throw away",
+    "en_vyslovnost": "/ərǝu ǝ'wer/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713441888
+  },
+  {
+    "cz": "vyzkoušet si (oblečení)",
+    "en": "try on (clothes)",
+    "en_vyslovnost": "/ trai, pri ('kləǝuðz)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713442888
+  },
+  {
+    "cz": "ztlumit (zvuk)",
+    "en": "turn down (volume)",
+    "en_vyslovnost": "/t3:n, daun ('volju:m)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713443888
+  },
+  {
+    "cz": "zesílit (zvuk)",
+    "en": "turn up (volume)",
+    "en_vyslovnost": "/t3:n ap ('vplju:m)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713444888
+  },
+  {
+    "cz": "jako obvykle",
+    "en": "as usual",
+    "en_vyslovnost": "/əz 'ju:zuəl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713445888
+  },
+  {
+    "cz": "vydírat",
+    "en": "blackmail (v)",
+    "en_vyslovnost": "/'blækmerl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713446888
+  },
+  {
+    "cz": "slepý",
+    "en": "blank (adj)",
+    "en_vyslovnost": "/blæŋk/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713447888
+  },
+  {
+    "cz": "tleskat",
+    "en": "clap (v)",
+    "en_vyslovnost": "/klæp/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713448888
+  },
+  {
+    "cz": "zasloužit si",
+    "en": "deserve",
+    "en_vyslovnost": "/dı'z3:v/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713449888
+  },
+  {
+    "cz": "úryvek",
+    "en": "extract (n)",
+    "en_vyslovnost": "/'ekstrækt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713450888
+  },
+  {
+    "cz": "vystřelit",
+    "en": "fire (v)",
+    "en_vyslovnost": "/'faıə(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713451888
+  },
+  {
+    "cz": "majestátní, velkolepý, ohromný",
+    "en": "grand",
+    "en_vyslovnost": "/grænd/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713452888
+  },
+  {
+    "cz": "Nemyslel jsem to tak.",
+    "en": "I didn't mean it.",
+    "en_vyslovnost": "/,ar didnt 'mi:n it/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713453888
+  },
+  {
+    "cz": "motiv",
+    "en": "motive",
+    "en_vyslovnost": "/'məutiv/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713454888
+  },
+  {
+    "cz": "představení",
+    "en": "performance",
+    "en_vyslovnost": "/pə'fə:məns/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713455888
+  },
+  {
+    "cz": "policejní důstojník",
+    "en": "police constable",
+    "en_vyslovnost": "/pə'li:s konstəbl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713456888
+  },
+  {
+    "cz": "zvuková aparatura",
+    "en": "sound equipment",
+    "en_vyslovnost": "/'saund 1, kwıpmənt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713457888
+  },
+  {
+    "cz": "inspicient (divadelní)",
+    "en": "stage manager",
+    "en_vyslovnost": "/ steidz 'mænıdzə(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713458888
+  },
+  {
+    "cz": "Zašel jste příliš daleko.",
+    "en": "You've gone too far.",
+    "en_vyslovnost": "/ju:v gon,tu: 'fa:(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713459888
+  },
+  {
+    "cz": "být povoleno",
+    "en": "be allowed to",
+    "en_vyslovnost": "/bi: ə'laud tu:, tə/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713460888
+  },
+  {
+    "cz": "účet",
+    "en": "bill",
+    "en_vyslovnost": "/bil/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713461888
+  },
+  {
+    "cz": "staveniště",
+    "en": "building site",
+    "en_vyslovnost": "/'bıldın sart/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713462888
+  },
+  {
+    "cz": "hodina v autoškole",
+    "en": "driving lesson",
+    "en_vyslovnost": "/'draıvın lesn/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713463888
+  },
+  {
+    "cz": "roznáška novin",
+    "en": "paper round",
+    "en_vyslovnost": "/'perpə raund/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713464888
+  },
+  {
+    "cz": "omezení",
+    "en": "restriction",
+    "en_vyslovnost": "/rı'strıkfn/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713465888
+  },
+  {
+    "cz": "celý",
+    "en": "the whole of",
+    "en_vyslovnost": "/də 'hǝul ǝv/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713466888
+  },
+  {
+    "cz": "dělat reklamu, inzerovat",
+    "en": "advertise",
+    "en_vyslovnost": "/'ædvǝtaız/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713467888
+  },
+  {
+    "cz": "průměrný",
+    "en": "average",
+    "en_vyslovnost": "/'ævərıdz/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713468888
+  },
+  {
+    "cz": "zakázat",
+    "en": "ban (v)",
+    "en_vyslovnost": "/bæn/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713469888
+  },
+  {
+    "cz": "gaučový povaleč, lenoch",
+    "en": "couch potato",
+    "en_vyslovnost": "/'kauts pə tertǝu/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713470888
+  },
+  {
+    "cz": "vyspělé země",
+    "en": "developed countries",
+    "en_vyslovnost": "/dı, velǝpt 'kantriz/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713471888
+  },
+  {
+    "cz": "růst",
+    "en": "growth",
+    "en_vyslovnost": "/grǝue/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713472888
+  },
+  {
+    "cz": "zdroj",
+    "en": "source",
+    "en_vyslovnost": "/sois/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713473888
+  },
+  {
+    "cz": "násilí",
+    "en": "violence",
+    "en_vyslovnost": "/'vaıələns/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713474888
+  },
+  {
+    "cz": "násilný",
+    "en": "violent",
+    "en_vyslovnost": "/'varələnt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713475888
+  },
+  {
+    "cz": "nákupčí módy",
+    "en": "fashion buyer",
+    "en_vyslovnost": "/'fæfn barə(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713476888
+  },
+  {
+    "cz": "maskérka",
+    "en": "make-up artist",
+    "en_vyslovnost": "/'meık, apartist/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713477888
+  },
+  {
+    "cz": "slovní druh",
+    "en": "part of speech",
+    "en_vyslovnost": "/ part ǝv 'spi:tf/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713478888
+  },
+  {
+    "cz": "osobní asistent/ka",
+    "en": "personal assistant",
+    "en_vyslovnost": "/p3isənl ǝ'sıstənt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713479888
+  },
+  {
+    "cz": "ohromně",
+    "en": "tremendously",
+    "en_vyslovnost": "/trə'mendəsli/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713480888
+  },
+  {
+    "cz": "S pozdravem ...",
+    "en": "Best wishes, ...",
+    "en_vyslovnost": "/best 'wısız/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713481888
+  },
+  {
+    "cz": "Milý ...",
+    "en": "Dear ...",
+    "en_vyslovnost": "/dıə(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713482888
+  },
+  {
+    "cz": "pronásledovat, strašit",
+    "en": "haunt",
+    "en_vyslovnost": "/ho:nt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713483888
+  },
+  {
+    "cz": "Těším se, až se mi ozvete.",
+    "en": "I look forward to hearing from you.",
+    "en_vyslovnost": "/ ar luk fə:wəd tə 'hıǝrın frəm,ju:/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713484888
+  },
+  {
+    "cz": "čekající",
+    "en": "on hold",
+    "en_vyslovnost": "/on 'hǝuld/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713485888
+  },
+  {
+    "cz": "Brzy na shledanou.",
+    "en": "See you soon.",
+    "en_vyslovnost": "/,si: ju: 'su:n/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713486888
+  },
+  {
+    "cz": "S pozdravem...",
+    "en": "Yours sincerely,...",
+    "en_vyslovnost": "/ joiz sın'sıəli/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "d",
+    "timestamp": 1748713487888
+  },
+  {
+    "cz": "bolet",
+    "en": "ache (v)",
+    "en_vyslovnost": "/erk/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713488888
+  },
+  {
+    "cz": "autobusové jízdné",
+    "en": "bus fare",
+    "en_vyslovnost": "/'bas, feǝ(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713489888
+  },
+  {
+    "cz": "Mohu ti pomoci?",
+    "en": "Can I give you a hand?",
+    "en_vyslovnost": "/kənar giv ju: ǝ 'hænd/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713490888
+  },
+  {
+    "cz": "země původu",
+    "en": "country of origin",
+    "en_vyslovnost": "/kantri əv 'Drıdzın/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713491888
+  },
+  {
+    "cz": "distribuční centrum",
+    "en": "distribution centre",
+    "en_vyslovnost": "/distri'bju:fn,sentə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713492888
+  },
+  {
+    "cz": "další, navíc",
+    "en": "extra (adj)",
+    "en_vyslovnost": "/'ekstrǝ/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713493888
+  },
+  {
+    "cz": "potravinová míle",
+    "en": "food miles",
+    "en_vyslovnost": "/'fu:d mailz/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713494888
+  },
+  {
+    "cz": "naložit",
+    "en": "load (v)",
+    "en_vyslovnost": "/lǝud/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713495888
+  },
+  {
+    "cz": "balírna",
+    "en": "packing station",
+    "en_vyslovnost": "/'pækın stern/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713496888
+  },
+  {
+    "cz": "ananas",
+    "en": "pineapple",
+    "en_vyslovnost": "/'painæpl/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713497888
+  },
+  {
+    "cz": "zralý",
+    "en": "ripe",
+    "en_vyslovnost": "/raıp/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713498888
+  },
+  {
+    "cz": "datum spotřeby",
+    "en": "sell-by date",
+    "en_vyslovnost": "/'sel, bar, deit/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "a",
+    "timestamp": 1748713499888
+  },
+  {
+    "cz": "akrylový",
+    "en": "acrylic",
+    "en_vyslovnost": "/ə'krılık/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713500888
+  },
+  {
+    "cz": "vzducholoď",
+    "en": "airship",
+    "en_vyslovnost": "/'eǝsıp/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713501888
+  },
+  {
+    "cz": "turista s batohem, baťůžkář",
+    "en": "backpacker",
+    "en_vyslovnost": "/'bækpækə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713502888
+  },
+  {
+    "cz": "cela",
+    "en": "cell",
+    "en_vyslovnost": "/sel/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713503888
+  },
+  {
+    "cz": "kaple",
+    "en": "chapel",
+    "en_vyslovnost": "/'tsæpl/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713504888
+  },
+  {
+    "cz": "přeměnit, přestavět na",
+    "en": "convert into",
+    "en_vyslovnost": "/kən'v3:tıntǝ/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713505888
+  },
+  {
+    "cz": "cena, stát",
+    "en": "cost (n, v)",
+    "en_vyslovnost": "/kpst/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713506888
+  },
+  {
+    "cz": "pár",
+    "en": "couple (n)",
+    "en_vyslovnost": "/'kopl/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713507888
+  },
+  {
+    "cz": "pokoj pro dva",
+    "en": "double room",
+    "en_vyslovnost": "/'dabl,ru:m/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713508888
+  },
+  {
+    "cz": "buď ..., nebo ...",
+    "en": "either ... or ...",
+    "en_vyslovnost": "/,ɔ:(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713509888
+  },
+  {
+    "cz": "znak, prvek",
+    "en": "feature (n)",
+    "en_vyslovnost": "/'fi:tfə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713510888
+  },
+  {
+    "cz": "volně stojící",
+    "en": "free-standing",
+    "en_vyslovnost": "/'fri: stændıŋ/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713511888
+  },
+  {
+    "cz": "rukavice",
+    "en": "glove",
+    "en_vyslovnost": "/glʌv/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713512888
+  },
+  {
+    "cz": "hala",
+    "en": "hall",
+    "en_vyslovnost": "/ho:l/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713513888
+  },
+  {
+    "cz": "výška",
+    "en": "height",
+    "en_vyslovnost": "/hart/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713514888
+  },
+  {
+    "cz": "laguna",
+    "en": "lagoon",
+    "en_vyslovnost": "/lǝ'gu:n/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713515888
+  },
+  {
+    "cz": "chata",
+    "en": "lodge (n)",
+    "en_vyslovnost": "/lpdz/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713516888
+  },
+  {
+    "cz": "luxusní",
+    "en": "luxury (adj)",
+    "en_vyslovnost": "/'lakfəri/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713517888
+  },
+  {
+    "cz": "procent(o)",
+    "en": "per cent",
+    "en_vyslovnost": "/pə 'sent/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713518888
+  },
+  {
+    "cz": "sob",
+    "en": "reindeer",
+    "en_vyslovnost": "/'reındıə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713519888
+  },
+  {
+    "cz": "středisko, letovisko",
+    "en": "resort (n)",
+    "en_vyslovnost": "/rı'zo:t/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713520888
+  },
+  {
+    "cz": "lanový most",
+    "en": "rope bridge",
+    "en_vyslovnost": "/'rǝup, bridz/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713521888
+  },
+  {
+    "cz": "jízda na snowboardu po písku",
+    "en": "sandboarding",
+    "en_vyslovnost": "/'sændbɔ:dıŋ/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713522888
+  },
+  {
+    "cz": "spacák",
+    "en": "sleeping bag",
+    "en_vyslovnost": "/'sli:pın bæg/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713523888
+  },
+  {
+    "cz": "jízda na snowboardu",
+    "en": "snowboarding",
+    "en_vyslovnost": "/'snǝubɔ:dıŋ/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713524888
+  },
+  {
+    "cz": "apartmán",
+    "en": "suite",
+    "en_vyslovnost": "/swi:t/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713525888
+  },
+  {
+    "cz": "sauna",
+    "en": "sauna",
+    "en_vyslovnost": "/so:nǝ/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713526888
+  },
+  {
+    "cz": "podvodní",
+    "en": "underwater",
+    "en_vyslovnost": "/andǝ'wɔ:tə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713527888
+  },
+  {
+    "cz": "nezapomenutelný",
+    "en": "unforgettable",
+    "en_vyslovnost": "/infǝ'getəbl/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713528888
+  },
+  {
+    "cz": "tobogan, skluzavka",
+    "en": "water slide",
+    "en_vyslovnost": "/'wɔ:tə,slaıd/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "b",
+    "timestamp": 1748713529888
+  },
+  {
+    "cz": "příjezd",
+    "en": "arrival",
+    "en_vyslovnost": "/ə'raıvl/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713530888
+  },
+  {
+    "cz": "spojený s",
+    "en": "associated with",
+    "en_vyslovnost": "/ə'sǝusieıtıd, wið, -fi-/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713531888
+  },
+  {
+    "cz": "odjet",
+    "en": "depart",
+    "en_vyslovnost": "/dr'pa:t/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713532888
+  },
+  {
+    "cz": "odjezd",
+    "en": "departure",
+    "en_vyslovnost": "/dı'pa:tfə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713533888
+  },
+  {
+    "cz": "cíl cesty",
+    "en": "destination",
+    "en_vyslovnost": "/desti'neıfn/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713534888
+  },
+  {
+    "cz": "provozován (kým)",
+    "en": "operated by",
+    "en_vyslovnost": "/'ppǝreıtıd bai/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713535888
+  },
+  {
+    "cz": "prodavač/ka jízdenek",
+    "en": "ticket clerk",
+    "en_vyslovnost": "/'tıkıt,kla:k/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713536888
+  },
+  {
+    "cz": "přímý vlak",
+    "en": "direct train",
+    "en_vyslovnost": "/də'rekt, dı-, daı-trein/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713537888
+  },
+  {
+    "cz": "rychlík",
+    "en": "express / fast train",
+    "en_vyslovnost": "/ık'spres, 'fa:st,trein/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713538888
+  },
+  {
+    "cz": "jízdné",
+    "en": "fare",
+    "en_vyslovnost": "/feǝ(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713539888
+  },
+  {
+    "cz": "nástupiště",
+    "en": "platform",
+    "en_vyslovnost": "/'plætfo:m/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713540888
+  },
+  {
+    "cz": "zpáteční (jízdenka)",
+    "en": "return (ticket)",
+    "en_vyslovnost": "/rı't3:n (tıkıt)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713541888
+  },
+  {
+    "cz": "jednosměrná (jízdenka)",
+    "en": "single (ticket)",
+    "en_vyslovnost": "/'singl (,tıkıt)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713542888
+  },
+  {
+    "cz": "osobní vlak",
+    "en": "slow train",
+    "en_vyslovnost": "/slǝu, trein/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713543888
+  },
+  {
+    "cz": "jízdní řád",
+    "en": "timetable",
+    "en_vyslovnost": "/'taımterbl/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "c",
+    "timestamp": 1748713544888
+  },
+  {
+    "cz": "cena",
+    "en": "price",
+    "en_vyslovnost": "/prais/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713545888
+  },
+  {
+    "cz": "ruku v ruce",
+    "en": "arm in arm",
+    "en_vyslovnost": "/a:m in 'a:m/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713546888
+  },
+  {
+    "cz": "proplatit šek",
+    "en": "cash a cheque",
+    "en_vyslovnost": "/kæfǝ'tſek/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713547888
+  },
+  {
+    "cz": "nenuceně, bezstarostně",
+    "en": "casually",
+    "en_vyslovnost": "/'kæzuǝli/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713548888
+  },
+  {
+    "cz": "dokončit dohodu",
+    "en": "complete a deal",
+    "en_vyslovnost": "/kəm,pli:t əǝ 'di:l/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713549888
+  },
+  {
+    "cz": "gratulovat",
+    "en": "congratulate",
+    "en_vyslovnost": "/kən'græt fuleıt/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713550888
+  },
+  {
+    "cz": "podvodník",
+    "en": "con man",
+    "en_vyslovnost": "/'kon, mæn/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713551888
+  },
+  {
+    "cz": "dluh",
+    "en": "debt",
+    "en_vyslovnost": "/det/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713552888
+  },
+  {
+    "cz": "záloha, vklad",
+    "en": "deposit (n)",
+    "en_vyslovnost": "/dı'ppzıt/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713553888
+  },
+  {
+    "cz": "ochotně, rád",
+    "en": "gladly",
+    "en_vyslovnost": "/'glædli/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713554888
+  },
+  {
+    "cz": "působivý",
+    "en": "impressive",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713555888
+  },
+  {
+    "cz": "pro případ",
+    "en": "in case",
+    "en_vyslovnost": "/ın 'keis/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713556888
+  },
+  {
+    "cz": "v té době",
+    "en": "in those days",
+    "en_vyslovnost": "/ın 'dǝuz deız/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713557888
+  },
+  {
+    "cz": "platba",
+    "en": "payment",
+    "en_vyslovnost": "/'peımənt/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713558888
+  },
+  {
+    "cz": "přesvědčit",
+    "en": "persuade",
+    "en_vyslovnost": "/pə'sweıd/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713559888
+  },
+  {
+    "cz": "přimluvit se za",
+    "en": "put in a word for",
+    "en_vyslovnost": "/ put, in ǝ 'w3id fǝ/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713560888
+  },
+  {
+    "cz": "prodejce",
+    "en": "salesman",
+    "en_vyslovnost": "/'seılzmən/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713561888
+  },
+  {
+    "cz": "zasilatelská společnost",
+    "en": "shipping company",
+    "en_vyslovnost": "/'sıpın kampəni/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713562888
+  },
+  {
+    "cz": "podezřelý",
+    "en": "suspicious",
+    "en_vyslovnost": "/sə'spıfəs/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713563888
+  },
+  {
+    "cz": "zkusit své štěstí",
+    "en": "try your luck",
+    "en_vyslovnost": "/ trai jo: 'lak/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713564888
+  },
+  {
+    "cz": "aristokracie",
+    "en": "aristocracy",
+    "en_vyslovnost": "/ærı'stokrǝsi/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713565888
+  },
+  {
+    "cz": "čínština",
+    "en": "Chinese",
+    "en_vyslovnost": "/tfar'ni:z/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713566888
+  },
+  {
+    "cz": "čeština",
+    "en": "Czech",
+    "en_vyslovnost": "/tfek/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713567888
+  },
+  {
+    "cz": "výtah",
+    "en": "elevator",
+    "en_vyslovnost": "/'eliveıtə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713568888
+  },
+  {
+    "cz": "benzín",
+    "en": "gas(oline)",
+    "en_vyslovnost": "/'gæsǝli:n/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713569888
+  },
+  {
+    "cz": "hindština",
+    "en": "Hindi",
+    "en_vyslovnost": "/'hındi/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713570888
+  },
+  {
+    "cz": "maďarština",
+    "en": "Hungarian",
+    "en_vyslovnost": "/hoŋ'geəriən/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713571888
+  },
+  {
+    "cz": "okupant",
+    "en": "invader",
+    "en_vyslovnost": "/ın'veıdə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713572888
+  },
+  {
+    "cz": "italština",
+    "en": "Italian",
+    "en_vyslovnost": "/ı'tæliən/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713573888
+  },
+  {
+    "cz": "výtah",
+    "en": "lift (n)",
+    "en_vyslovnost": "/lift/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713574888
+  },
+  {
+    "cz": "parlament",
+    "en": "parliament",
+    "en_vyslovnost": "/'pa:ləmənt/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713575888
+  },
+  {
+    "cz": "chodník",
+    "en": "pavement",
+    "en_vyslovnost": "/'pervmənt/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713576888
+  },
+  {
+    "cz": "benzín",
+    "en": "petrol",
+    "en_vyslovnost": "/'petrəl/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713577888
+  },
+  {
+    "cz": "pyžamo",
+    "en": "pyjamas",
+    "en_vyslovnost": "/pə'dza:məz/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713578888
+  },
+  {
+    "cz": "srbština",
+    "en": "Serbian",
+    "en_vyslovnost": "/'s3:biǝn/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713579888
+  },
+  {
+    "cz": "chodník",
+    "en": "sidewalk",
+    "en_vyslovnost": "/'sardwork/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713580888
+  },
+  {
+    "cz": "fotbal",
+    "en": "soccer",
+    "en_vyslovnost": "/'spkə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713581888
+  },
+  {
+    "cz": "španělština",
+    "en": "Spanish",
+    "en_vyslovnost": "/'spænı∫/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713582888
+  },
+  {
+    "cz": "turečtina",
+    "en": "Turkish",
+    "en_vyslovnost": "/t3:k1∫/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713583888
+  },
+  {
+    "cz": "prázdniny",
+    "en": "vacation",
+    "en_vyslovnost": "/və'keı∫n/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713584888
+  },
+  {
+    "cz": "upír",
+    "en": "vampire",
+    "en_vyslovnost": "/'væmpaıə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713585888
+  },
+  {
+    "cz": "pekař",
+    "en": "baker",
+    "en_vyslovnost": "/'beıkə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713586888
+  },
+  {
+    "cz": "falešný",
+    "en": "fake (adj)",
+    "en_vyslovnost": "/ferk/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713587888
+  },
+  {
+    "cz": "hologram",
+    "en": "hologram",
+    "en_vyslovnost": "/'holəgræm/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713588888
+  },
+  {
+    "cz": "potrestat",
+    "en": "punish",
+    "en_vyslovnost": "/'panı∫/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713589888
+  },
+  {
+    "cz": "mušle",
+    "en": "shell",
+    "en_vyslovnost": "/fel/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713590888
+  },
+  {
+    "cz": "kupec",
+    "en": "trader",
+    "en_vyslovnost": "/'treıdə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713591888
+  },
+  {
+    "cz": "platební karta",
+    "en": "bank card",
+    "en_vyslovnost": "/'bænk,ka:d/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713592888
+  },
+  {
+    "cz": "výměnný obchod",
+    "en": "barter (n)",
+    "en_vyslovnost": "/'ba:tə(r)/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748713593888
+  },
+  {
+    "cz": "znečištění",
+    "en": "pollution",
+    "en_vyslovnost": "/pə'lu:∫n/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748713594888
+  },
+  {
+    "cz": "vytvořit, vyrobit",
+    "en": "produce",
+    "en_vyslovnost": "/prǝ'dju:s/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748713595888
+  },
+  {
+    "cz": "výroba, produkce",
+    "en": "production",
+    "en_vyslovnost": "/prǝ'dak∫n/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748713596888
+  },
+  {
+    "cz": "zabít elektrickým proudem",
+    "en": "electrocute",
+    "en_vyslovnost": "/1'lektrǝkju:t/",
+    "trida": 9,
     "unit": 3,
     "subunit": "c",
-    "timestamp": 1748267106394
+    "timestamp": 1748713597888
   },
   {
-    "cz": "hovnos",
-    "en": "shit",
-    "en_vyslovnost": "sit",
-    "trida": 5,
-    "unit": 2,
+    "cz": "přejet, srazit (někoho)",
+    "en": "run (somebody) over",
+    "en_vyslovnost": "/ran... 'ǝuvə(r)/",
+    "trida": 9,
+    "unit": 3,
     "subunit": "c",
-    "timestamp": 1748267129598
+    "timestamp": 1748713598888
   },
   {
-    "cz": "b",
-    "en": "b",
-    "en_vyslovnost": "b",
-    "trida": 6,
+    "cz": "poškrábat",
+    "en": "scratch (v)",
+    "en_vyslovnost": "/skræt∫/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713599888
+  },
+  {
+    "cz": "štípnout, dát žihadlo",
+    "en": "sting (v)",
+    "en_vyslovnost": "/stin/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713600888
+  },
+  {
+    "cz": "mávat",
+    "en": "wave (v)",
+    "en_vyslovnost": "/werv/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713601888
+  },
+  {
+    "cz": "Pozor na...",
+    "en": "Beware of the...",
+    "en_vyslovnost": "/bı'weər əv də/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713602888
+  },
+  {
+    "cz": "Pozor! Podlaha klouže, když je mokrá.",
+    "en": "Caution! Floor is slippery when wet.",
+    "en_vyslovnost": "/'kɔ:fn, fləır ız,slıpəri wen 'wet/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713603888
+  },
+  {
+    "cz": "Nebezpečí! Vysoké napětí.",
+    "en": "Danger! High voltage electricity.",
+    "en_vyslovnost": "/'deındzə, haı vəultıdz ılek'trısǝti/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713604888
+  },
+  {
+    "cz": "Nevyklánějte se z okna.",
+    "en": "Do not lean out of the window.",
+    "en_vyslovnost": "/, du: not li:n aut əv də 'windəʊ/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713605888
+  },
+  {
+    "cz": "Únikový východ. Udržujte volný / průchozí.",
+    "en": "Emergency exit. Keep clear.",
+    "en_vyslovnost": "/i, m3:dzənsi 'eksıt, ki:p 'klıə(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713606888
+  },
+  {
+    "cz": "Riziko požáru. Zákaz táborových ohňů. Ukládejte cigaretové nedopalky a zápalky bezpečným způsobem.",
+    "en": "Fire risk. No camp fires. Dispose of cigarettes and matches safely.",
+    "en_vyslovnost": "/'farə risk, 'nǝu 'kæmp faıəz, dı, spǝuz əv sigərets ən mæt fız 'serfli/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713607888
+  },
+  {
+    "cz": "Nepitná voda.",
+    "en": "Not drinking water.",
+    "en_vyslovnost": "/'not 'drınkın wɔ:tə(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713608888
+  },
+  {
+    "cz": "Jed. Pouze pro zevní použití. V případě požití okamžitě vyhledejte lékařskou pomoc.",
+    "en": "Poison. For external use only. If swallowed, seek medical attention immediately.",
+    "en_vyslovnost": "/'pɔızn, fər ık,st3:nl ju:s 'ǝunli, if 'swplǝud, siik 'medıkl ǝ,ten∫n r'mi:diətli/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713609888
+  },
+  {
+    "cz": "Nebezpečí radioaktivity. Nevstupujte. Pouze pro pověřené osoby.",
+    "en": "Radioactive hazard. Do not enter. Authorized personnel only.",
+    "en_vyslovnost": "/ reıdiǝu,æktıv 'hæzəd, du: 'notentə, əəəraızdp3:sənel 'ǝunli/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713610888
+  },
+  {
+    "cz": "Varování. Silné proudy.",
+    "en": "Warning. Strong currents.",
+    "en_vyslovnost": "/'wɔının, 'stron karǝnts/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713611888
+  },
+  {
+    "cz": "Zákaz plavání.",
+    "en": "No swimming.",
+    "en_vyslovnost": "'nǝu, swımıŋ/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713612888
+  },
+  {
+    "cz": "vztek",
+    "en": "anger",
+    "en_vyslovnost": "/'ængǝ(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713613888
+  },
+  {
+    "cz": "naštvaný",
+    "en": "angry",
+    "en_vyslovnost": "/'ængri/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713614888
+  },
+  {
+    "cz": "opatrnost",
+    "en": "caution",
+    "en_vyslovnost": "/'ko:fn/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713615888
+  },
+  {
+    "cz": "opatrný",
+    "en": "cautious",
+    "en_vyslovnost": "/'kɔ:səs/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713616888
+  },
+  {
+    "cz": "nebezpečí",
+    "en": "danger",
+    "en_vyslovnost": "/'deındzə(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713617888
+  },
+  {
+    "cz": "nebezpečný",
+    "en": "dangerous",
+    "en_vyslovnost": "/'deındərəs/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713618888
+  },
+  {
+    "cz": "špína",
+    "en": "dirt",
+    "en_vyslovnost": "/d3:t/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713619888
+  },
+  {
+    "cz": "špinavý",
+    "en": "dirty",
+    "en_vyslovnost": "/'d3:ti/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713620888
+  },
+  {
+    "cz": "lehkost, snadnost",
+    "en": "ease",
+    "en_vyslovnost": "/i:z/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713621888
+  },
+  {
+    "cz": "lehký",
+    "en": "easy",
+    "en_vyslovnost": "/'i:zi/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713622888
+  },
+  {
+    "cz": "sláva",
+    "en": "fame",
+    "en_vyslovnost": "/feim/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713623888
+  },
+  {
+    "cz": "slavný",
+    "en": "famous",
+    "en_vyslovnost": "/'ferməs/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713624888
+  },
+  {
+    "cz": "zdraví",
+    "en": "health",
+    "en_vyslovnost": "/hele/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713625888
+  },
+  {
+    "cz": "zdravý",
+    "en": "healthy",
+    "en_vyslovnost": "/'helei/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713626888
+  },
+  {
+    "cz": "riziko, nebezpečí",
+    "en": "hazard",
+    "en_vyslovnost": "/'hæzəd/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713627888
+  },
+  {
+    "cz": "nebezpečný, riskantní",
+    "en": "hazardous",
+    "en_vyslovnost": "/'hæzədəs/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713628888
+  },
+  {
+    "cz": "infekce",
+    "en": "infection",
+    "en_vyslovnost": "/in'fekfn/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713629888
+  },
+  {
+    "cz": "nakažlivý",
+    "en": "infectious",
+    "en_vyslovnost": "/ın'fekfəs/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713630888
+  },
+  {
+    "cz": "štěstí",
+    "en": "luck",
+    "en_vyslovnost": "/lnk/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713631888
+  },
+  {
+    "cz": "mající štěstí",
+    "en": "lucky",
+    "en_vyslovnost": "/'laki/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713632888
+  },
+  {
+    "cz": "jed",
+    "en": "poison",
+    "en_vyslovnost": "/'pɔızn/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713633888
+  },
+  {
+    "cz": "jedovatý",
+    "en": "poisonous",
+    "en_vyslovnost": "/pəızənəs/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713634888
+  },
+  {
+    "cz": "risk",
+    "en": "risk",
+    "en_vyslovnost": "/rısk/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713635888
+  },
+  {
+    "cz": "riskantní",
+    "en": "risky",
+    "en_vyslovnost": "/'rıski/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "c",
+    "timestamp": 1748713636888
+  },
+  {
+    "cz": "letiště",
+    "en": "airfield",
+    "en_vyslovnost": "/'eǝfi:ld/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713637888
+  },
+  {
+    "cz": "batoh",
+    "en": "backpack",
+    "en_vyslovnost": "/'bækpæk/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713638888
+  },
+  {
+    "cz": "vrchlík padáku",
+    "en": "canopy",
+    "en_vyslovnost": "/'kænəpi/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713639888
+  },
+  {
+    "cz": "samozřejmě",
+    "en": "certainly",
+    "en_vyslovnost": "/'s3:tnli/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713640888
+  },
+  {
+    "cz": "provázek, šňůra",
+    "en": "cord",
+    "en_vyslovnost": "/kɔ:d/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713641888
+  },
+  {
+    "cz": "hangár",
+    "en": "hangar",
+    "en_vyslovnost": "/hæŋə(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713642888
+  },
+  {
+    "cz": "horkovzdušný balón",
+    "en": "hot-air balloon",
+    "en_vyslovnost": "/hpt 'eə bə, luin/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713643888
+  },
+  {
+    "cz": "v každém případě",
+    "en": "in any case",
+    "en_vyslovnost": "in 'eni,kers/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713644888
+  },
+  {
+    "cz": "zranit (se)",
+    "en": "injure",
+    "en_vyslovnost": "/'ındzə(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713645888
+  },
+  {
+    "cz": "Nemělo to cenu.",
+    "en": "It was no use.",
+    "en_vyslovnost": "/it wǝz 'nǝu ju:s/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713646888
+  },
+  {
+    "cz": "mimo kontrolu, neovladatelný",
+    "en": "out of control",
+    "en_vyslovnost": "aut əv kən'trǝul/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713647888
+  },
+  {
+    "cz": "padák",
+    "en": "parachute",
+    "en_vyslovnost": "/'pærəfu:t/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713648888
+  },
+  {
+    "cz": "záložní (adj)",
+    "en": "reserve",
+    "en_vyslovnost": "/rı'z3:v/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713649888
+  },
+  {
+    "cz": "řídit",
+    "en": "steer",
+    "en_vyslovnost": "/stıǝ(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713650888
+  },
+  {
+    "cz": "děsivý",
+    "en": "terrifying",
+    "en_vyslovnost": "/'terıfaıŋ/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713651888
+  },
+  {
+    "cz": "v bezvědomí",
+    "en": "unconscious",
+    "en_vyslovnost": "/an'kpnfəs/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713652888
+  },
+  {
+    "cz": "odepnout",
+    "en": "unfasten",
+    "en_vyslovnost": "/an'fa:sn/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713653888
+  },
+  {
+    "cz": "nemající štěstí",
+    "en": "unlucky",
+    "en_vyslovnost": "/an'laki/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713654888
+  },
+  {
+    "cz": "centrum (sportovních) aktivit",
+    "en": "activity centre",
+    "en_vyslovnost": "/æk'tıvəti sentə(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713655888
+  },
+  {
+    "cz": "aktivní dovolená",
+    "en": "activity holiday",
+    "en_vyslovnost": "/æk'tıvəti hələder/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713656888
+  },
+  {
+    "cz": "sud",
+    "en": "barrel",
+    "en_vyslovnost": "/'bærəl/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713657888
+  },
+  {
+    "cz": "výhoda",
+    "en": "benefit (n)",
+    "en_vyslovnost": "/'benəfıt/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713658888
+  },
+  {
+    "cz": "sebejistý",
+    "en": "confident",
+    "en_vyslovnost": "/'konfıdənt/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713659888
+  },
+  {
+    "cz": "jistota",
+    "en": "confidence",
+    "en_vyslovnost": "/'konfıdəns/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713660888
+  },
+  {
+    "cz": "test v autoškole",
+    "en": "driving test",
+    "en_vyslovnost": "/'draıvın test/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713661888
+  },
+  {
+    "cz": "A navíc ...",
+    "en": "In addition, ...",
+    "en_vyslovnost": "/'draıvın test/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713662888
+  },
+  {
+    "cz": "příležitost",
+    "en": "opportunity",
+    "en_vyslovnost": "/ppǝ'tju:nəti/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713663888
+  },
+  {
+    "cz": "čtyřkolka",
+    "en": "quad bike",
+    "en_vyslovnost": "/'kwpd, baık/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713664888
+  },
+  {
+    "cz": "stavění raftu",
+    "en": "raft-building",
+    "en_vyslovnost": "/ra:ft bıldıŋ/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713665888
+  },
+  {
+    "cz": "lezení po skalách",
+    "en": "rock climbing",
+    "en_vyslovnost": "/'rok klaımın/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713666888
+  },
+  {
+    "cz": "sedací úvazek",
+    "en": "safety harness",
+    "en_vyslovnost": "/'serfti hainǝs/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713667888
+  },
+  {
+    "cz": "letní tábor",
+    "en": "summer camp",
+    "en_vyslovnost": "/'samǝkæmp/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713668888
+  },
+  {
+    "cz": "surfování",
+    "en": "surfing",
+    "en_vyslovnost": "/'s3:fin/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713669888
+  },
+  {
+    "cz": "oddělit se",
+    "en": "break away",
+    "en_vyslovnost": "/breık ǝ'wer/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713670888
+  },
+  {
+    "cz": "skládat se z",
+    "en": "consist of",
+    "en_vyslovnost": "/kən'sıst ǝv/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713671888
+  },
+  {
+    "cz": "plout",
+    "en": "float (v)",
+    "en_vyslovnost": "/flǝut/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713672888
+  },
+  {
+    "cz": "vrstva",
+    "en": "layer (n)",
+    "en_vyslovnost": "/'lerǝ(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713673888
+  },
+  {
+    "cz": "tektonická deska",
+    "en": "plate tectonics",
+    "en_vyslovnost": "/pleit tek'toniks/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713674888
+  },
+  {
+    "cz": "tvar",
+    "en": "shape (n)",
+    "en_vyslovnost": "/ferp/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713675888
+  },
+  {
+    "cz": "zemská kůra",
+    "en": "the Earth's crust",
+    "en_vyslovnost": "/ði: 3:0s 'krast/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713676888
+  },
+  {
+    "cz": "stroj času",
+    "en": "time machine",
+    "en_vyslovnost": "/'taım mə, fi:n/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713677888
+  },
+  {
+    "cz": "jedinečný, unikátní",
+    "en": "unique",
+    "en_vyslovnost": "/ju'ni:k/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713678888
+  },
+  {
+    "cz": "kontext",
+    "en": "context",
+    "en_vyslovnost": "/'kontekst/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713679888
+  },
+  {
+    "cz": "Neplaš.",
+    "en": "Don't fuss.",
+    "en_vyslovnost": "/, dǝunt 'fas/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713680888
+  },
+  {
+    "cz": "lávka pro pěší",
+    "en": "footbridge",
+    "en_vyslovnost": "/'futbridz/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713681888
+  },
+  {
+    "cz": "frisbee",
+    "en": "frisbee",
+    "en_vyslovnost": "/'frizbi/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713682888
+  },
+  {
+    "cz": "dodatek",
+    "en": "addition",
+    "en_vyslovnost": "/ə'dı∫n/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713683888
+  },
+  {
+    "cz": "oheň, táborák",
+    "en": "bonfire",
+    "en_vyslovnost": "/'bonfarə(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713684888
+  },
+  {
+    "cz": "brožura",
+    "en": "brochure",
+    "en_vyslovnost": "/'brǝusə(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713685888
+  },
+  {
+    "cz": "požár způsobený vznícením oleje v pánvi na hranolky",
+    "en": "chip pan fire",
+    "en_vyslovnost": "/'tfıp pæn farə(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713686888
+  },
+  {
+    "cz": "kruhový, kulatý",
+    "en": "circular",
+    "en_vyslovnost": "/'s3:kjələ(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713687888
+  },
+  {
+    "cz": "medvěd grizzly",
+    "en": "grizzly bear",
+    "en_vyslovnost": "/grızli 'beə(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713688888
+  },
+  {
+    "cz": "boj kung-fu",
+    "en": "Kung fu fighting",
+    "en_vyslovnost": "/kan 'fu: faıtın/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713689888
+  },
+  {
+    "cz": "doupě",
+    "en": "lair",
+    "en_vyslovnost": "/leǝ(r)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713690888
+  },
+  {
+    "cz": "zátka",
+    "en": "peg (n)",
+    "en_vyslovnost": "/peg/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713691888
+  },
+  {
+    "cz": "hodit kostkou",
+    "en": "roll the dice",
+    "en_vyslovnost": "/'daıs/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713692888
+  },
+  {
+    "cz": "nůžky",
+    "en": "scissors",
+    "en_vyslovnost": "/'sızǝz/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713693888
+  },
+  {
+    "cz": "přiléhavá kombinéza",
+    "en": "shell suit",
+    "en_vyslovnost": "/'fel, su:t/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713694888
+  },
+  {
+    "cz": "dobře známý",
+    "en": "well-known",
+    "en_vyslovnost": "/wel 'nǝun/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "d",
+    "timestamp": 1748713695888
+  },
+  {
+    "cz": "stolní počítač",
+    "en": "desktop (computer)",
+    "en_vyslovnost": "/'desktop (kəm,pju:tə)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713696888
+  },
+  {
+    "cz": "média",
+    "en": "the media",
+    "en_vyslovnost": "/ə'midiə/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713697888
+  },
+  {
+    "cz": "The media",
+    "en": "the media",
+    "en_vyslovnost": "/ə'midiə/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713698888
+  },
+  {
+    "cz": "CD",
+    "en": "CD",
+    "en_vyslovnost": "/si: 'di:/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713699888
+  },
+  {
+    "cz": "kino",
+    "en": "cinema",
+    "en_vyslovnost": "/'sınəmə/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713700888
+  },
+  {
+    "cz": "koncert",
+    "en": "concert",
+    "en_vyslovnost": "/'konsǝt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713701888
+  },
+  {
+    "cz": "film",
+    "en": "film",
+    "en_vyslovnost": "/film/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713702888
+  },
+  {
+    "cz": "Internet",
+    "en": "Internet",
+    "en_vyslovnost": "/'intǝnet/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713703888
+  },
+  {
+    "cz": "noviny",
+    "en": "newspaper",
+    "en_vyslovnost": "/'nju:zpeıpə(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713704888
+  },
+  {
+    "cz": "hra",
+    "en": "play (n)",
+    "en_vyslovnost": "/pler/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713705888
+  },
+  {
+    "cz": "program",
+    "en": "programme",
+    "en_vyslovnost": "/'prǝugræm/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713706888
+  },
+  {
+    "cz": "rádio, rozhlas",
+    "en": "radio",
+    "en_vyslovnost": "/'reıdiǝu/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713707888
+  },
+  {
+    "cz": "divadlo",
+    "en": "theatre",
+    "en_vyslovnost": "/'ıǝtə(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713708888
+  },
+  {
+    "cz": "televize",
+    "en": "TV",
+    "en_vyslovnost": "/ti: 'vi:/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713709888
+  },
+  {
+    "cz": "webová stránka",
+    "en": "website",
+    "en_vyslovnost": "/'websait/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "a",
+    "timestamp": 1748713710888
+  },
+  {
+    "cz": "herectví",
+    "en": "acting",
+    "en_vyslovnost": "/'æktıŋ/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713711888
+  },
+  {
+    "cz": "inzerát",
+    "en": "advert",
+    "en_vyslovnost": "/'ædv3:t/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713712888
+  },
+  {
+    "cz": "inzerát",
+    "en": "advertisement",
+    "en_vyslovnost": "/ǝd'v3:tısmənt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713713888
+  },
+  {
+    "cz": "žádost",
+    "en": "application",
+    "en_vyslovnost": "/æplı'kerſn/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713714888
+  },
+  {
+    "cz": "formulář na žádost",
+    "en": "application form",
+    "en_vyslovnost": "/æplı'keın,fo:m/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713715888
+  },
+  {
+    "cz": "žádat",
+    "en": "apply",
+    "en_vyslovnost": "/ə'plaı/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713716888
+  },
+  {
+    "cz": "přiložit",
+    "en": "attach",
+    "en_vyslovnost": "/ə'tæt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713717888
+  },
+  {
+    "cz": "uklízet, čistit",
+    "en": "clear (v)",
+    "en_vyslovnost": "/klıə(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713718888
+  },
+  {
+    "cz": "hřeben, česat",
+    "en": "comb (n, v)",
+    "en_vyslovnost": "/kǝum/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713719888
+  },
+  {
+    "cz": "doručit",
+    "en": "deliver",
+    "en_vyslovnost": "/dı'lıvə(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713720888
+  },
+  {
+    "cz": "roznáška, doručení",
+    "en": "delivery",
+    "en_vyslovnost": "/dı'lıvəri/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713721888
+  },
+  {
+    "cz": "povinnost",
+    "en": "duty",
+    "en_vyslovnost": "/'dju:ti/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713722888
+  },
+  {
+    "cz": "žena",
+    "en": "female",
+    "en_vyslovnost": "/'fi:meıl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713723888
+  },
+  {
+    "cz": "komparzista",
+    "en": "film extra",
+    "en_vyslovnost": "/'ekstrǝ/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713724888
+  },
+  {
+    "cz": "mající rád",
+    "en": "fond of",
+    "en_vyslovnost": "/'fond ǝv/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713725888
+  },
+  {
+    "cz": "další podrobnosti",
+    "en": "further details",
+    "en_vyslovnost": "/f3:ðə 'di:teilz/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713726888
+  },
+  {
+    "cz": "dobrý v (čem)",
+    "en": "good at",
+    "en_vyslovnost": "/'gud ət/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713727888
+  },
+  {
+    "cz": "zahrnovat, obnášet",
+    "en": "involve",
+    "en_vyslovnost": "/In'vplv/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713728888
+  },
+  {
+    "cz": "muž",
+    "en": "male",
+    "en_vyslovnost": "/merl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713729888
+  },
+  {
+    "cz": "minimální mzda",
+    "en": "minimum wage",
+    "en_vyslovnost": "/mınıməm 'werdz/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713730888
+  },
+  {
+    "cz": "police",
+    "en": "shelf (pl. shelves)",
+    "en_vyslovnost": "/self, ſelvz/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713731888
+  },
+  {
+    "cz": "prodavač/ka",
+    "en": "shop assistant",
+    "en_vyslovnost": "/fupǝ,sistənt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713732888
+  },
+  {
+    "cz": "podporovat",
+    "en": "support (v)",
+    "en_vyslovnost": "/sə'pɔ:t/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713733888
+  },
+  {
+    "cz": "zametat (podlahu)",
+    "en": "sweep (the floor)",
+    "en_vyslovnost": "/swip (də 'flə:)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713734888
+  },
+  {
+    "cz": "tlak",
+    "en": "pressure",
+    "en_vyslovnost": "/'prefə(r)/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713735888
+  },
+  {
+    "cz": "ctižádostivý, ambiciózní",
+    "en": "ambitious",
+    "en_vyslovnost": "/æm'bıfəs/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713736888
+  },
+  {
+    "cz": "úzkostlivý",
+    "en": "anxious",
+    "en_vyslovnost": "/'ænkfəs/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713737888
+  },
+  {
+    "cz": "šarmantní",
+    "en": "charming",
+    "en_vyslovnost": "/'t fa:mıŋ/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713738888
+  },
+  {
+    "cz": "veselý",
+    "en": "cheerful",
+    "en_vyslovnost": "/'t fiǝfl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713739888
+  },
+  {
+    "cz": "neloajální",
+    "en": "disloyal",
+    "en_vyslovnost": "/dıs'ləıəl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713740888
+  },
+  {
+    "cz": "pohodový, vyrovnaný",
+    "en": "easy-going",
+    "en_vyslovnost": "/izzi 'gǝuıŋ/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713741888
+  },
+  {
+    "cz": "nadšený",
+    "en": "enthusiastic",
+    "en_vyslovnost": "/in@juzzi'æstık/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713742888
+  },
+  {
+    "cz": "pilný, pracovitý",
+    "en": "hard-working",
+    "en_vyslovnost": "/,ha:d 'w3:kın/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713743888
+  },
+  {
+    "cz": "netrpělivý",
+    "en": "impatient",
+    "en_vyslovnost": "/ım'perfnt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713744888
+  },
+  {
+    "cz": "líný",
+    "en": "lazy",
+    "en_vyslovnost": "/'leızi/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713745888
+  },
+  {
+    "cz": "loajální",
+    "en": "loyal",
+    "en_vyslovnost": "/'ləıəl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713746888
+  },
+  {
+    "cz": "nepořádný",
+    "en": "messy",
+    "en_vyslovnost": "/'mesi/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713747888
+  },
+  {
+    "cz": "nešťastný, bídný",
+    "en": "miserable",
+    "en_vyslovnost": "/'mızrəbl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713748888
+  },
+  {
+    "cz": "pesimistický, záporný",
+    "en": "negative",
+    "en_vyslovnost": "/'negǝtıv/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713749888
+  },
+  {
+    "cz": "trpělivý",
+    "en": "patient",
+    "en_vyslovnost": "/'perfnt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713750888
+  },
+  {
+    "cz": "slušný, zdvořilý",
+    "en": "polite",
+    "en_vyslovnost": "/pə'lart/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713751888
+  },
+  {
+    "cz": "spolehlivý",
+    "en": "reliable",
+    "en_vyslovnost": "/rı'larəbl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713752888
+  },
+  {
+    "cz": "hrubý, neslušný",
+    "en": "rude",
+    "en_vyslovnost": "/ru:d/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713753888
+  },
+  {
+    "cz": "rozumný",
+    "en": "sensible",
+    "en_vyslovnost": "/'sensəbl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713754888
+  },
+  {
+    "cz": "bláznivý, pošetilý",
+    "en": "silly",
+    "en_vyslovnost": "/'sıli/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713755888
+  },
+  {
+    "cz": "upravený, pořádný",
+    "en": "tidy",
+    "en_vyslovnost": "/'tardi/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713756888
+  },
+  {
+    "cz": "nectižádostivý, nenáročný",
+    "en": "unambitious",
+    "en_vyslovnost": "/Anæm'bıfəs/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713757888
+  },
+  {
+    "cz": "nepříjemný",
+    "en": "unpleasant",
+    "en_vyslovnost": "/ʌn'pleznt/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713758888
+  },
+  {
+    "cz": "nespolehlivý",
+    "en": "unreliable",
+    "en_vyslovnost": "/Anrı'laıəbl/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "b",
+    "timestamp": 1748713759888
+  },
+  {
+    "cz": "svézt (někoho)",
+    "en": "give (somebody) a lift",
+    "en_vyslovnost": "/ grv... ǝ 'lıft/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713760888
+  },
+  {
+    "cz": "je v pořádku, když...?",
+    "en": "Is it all right if...?",
+    "en_vyslovnost": "/ızıt 'oil rait, if/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713761888
+  },
+  {
+    "cz": "námitka",
+    "en": "objection",
+    "en_vyslovnost": "/əb'dzek∫n/",
+    "trida": 9,
+    "unit": 4,
+    "subunit": "c",
+    "timestamp": 1748713762888
+  },
+  {
+    "cz": "porcelánový",
+    "en": "china (adj)",
+    "en_vyslovnost": "/ˈtʃaɪ.nə/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "a",
+    "timestamp": 1748713763888
+  },
+  {
+    "cz": "dát domácí vězení",
+    "en": "ground (v)",
+    "en_vyslovnost": "/ɡraʊnd/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "a",
+    "timestamp": 1748713764888
+  },
+  {
+    "cz": "já také ne",
+    "en": "Me neither.",
+    "en_vyslovnost": "/miː ˈniːðə/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "a",
+    "timestamp": 1748713765888
+  },
+  {
+    "cz": "sám",
+    "en": "on my own",
+    "en_vyslovnost": "/ɒn maɪ əʊn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "a",
+    "timestamp": 1748713766888
+  },
+  {
+    "cz": "příliv",
+    "en": "tide",
+    "en_vyslovnost": "/taɪd/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "a",
+    "timestamp": 1748713767888
+  },
+  {
+    "cz": "vzhled",
+    "en": "appearance",
+    "en_vyslovnost": "/əˈpɪə.rəns/",
+    "trida": 9,
     "unit": 1,
     "subunit": "b",
-    "timestamp": 1748268984626
+    "timestamp": 1748713768888
   },
   {
-    "cz": "cccc",
-    "en": "ccc",
-    "en_vyslovnost": "c",
-    "trida": 3,
+    "cz": "vyloučit",
+    "en": "expel",
+    "en_vyslovnost": "/ɪkˈspel/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713769888
+  },
+  {
+    "cz": "tyran, šikanovat",
+    "en": "bully (n, v)",
+    "en_vyslovnost": "/ˈbʊl.i/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713770888
+  },
+  {
+    "cz": "šikana",
+    "en": "bullying",
+    "en_vyslovnost": "/ˈbʊl.i.ɪŋ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713771888
+  },
+  {
+    "cz": "nadávat (někomu)",
+    "en": "call (somebody) names",
+    "en_vyslovnost": "/kɔːl ˈneɪmz/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713772888
+  },
+  {
+    "cz": "pokračovat",
+    "en": "carry on",
+    "en_vyslovnost": "/ˈkæri ɒn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713773888
+  },
+  {
+    "cz": "přijít k",
+    "en": "come up to",
+    "en_vyslovnost": "/kʌm ʌp tuː/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713774888
+  },
+  {
+    "cz": "šikana po internetu",
+    "en": "cyber-bullying",
+    "en_vyslovnost": "/ˈsaɪbə ˌbʊliɪŋ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713775888
+  },
+  {
+    "cz": "popadnout",
+    "en": "grab",
+    "en_vyslovnost": "/ɡræb/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713776888
+  },
+  {
+    "cz": "ignorovat, nevšímat si",
+    "en": "ignore",
+    "en_vyslovnost": "/ɪɡˈnɔː(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713777888
+  },
+  {
+    "cz": "nakonec",
+    "en": "in the end",
+    "en_vyslovnost": "/ɪn ði end/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713778888
+  },
+  {
+    "cz": "přestěhovat se",
+    "en": "move house",
+    "en_vyslovnost": "/muːv haʊs/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713779888
+  },
+  {
+    "cz": "přirozeně",
+    "en": "naturally",
+    "en_vyslovnost": "/ˈnætʃrəli/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713780888
+  },
+  {
+    "cz": "osobnost",
+    "en": "personality",
+    "en_vyslovnost": "/ˌpɜːsəˈnæləti/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713781888
+  },
+  {
+    "cz": "dát pěstí",
+    "en": "punch (v)",
+    "en_vyslovnost": "/pʌntʃ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713782888
+  },
+  {
+    "cz": "náboženství",
+    "en": "religion",
+    "en_vyslovnost": "/rɪˈlɪdʒən/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713783888
+  },
+  {
+    "cz": "slovní",
+    "en": "verbal",
+    "en_vyslovnost": "/ˈvɜːbl/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713784888
+  },
+  {
+    "cz": "oběť",
+    "en": "victim",
+    "en_vyslovnost": "/ˈvɪktɪm/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713785888
+  },
+  {
+    "cz": "naštvaný",
+    "en": "angry",
+    "en_vyslovnost": "/ˈæŋɡri/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713786888
+  },
+  {
+    "cz": "přitažlivý",
+    "en": "attractive",
+    "en_vyslovnost": "/əˈtræktɪv/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713787888
+  },
+  {
+    "cz": "opatrný, pozorný",
+    "en": "careful",
+    "en_vyslovnost": "/ˈkeəfl/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713788888
+  },
+  {
+    "cz": "veselý",
+    "en": "cheerful",
+    "en_vyslovnost": "/ˈtʃɪəfl/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713789888
+  },
+  {
+    "cz": "sebevědomý",
+    "en": "confident",
+    "en_vyslovnost": "/ˈkɒnfɪdənt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713790888
+  },
+  {
+    "cz": "přátelský",
+    "en": "friendly",
+    "en_vyslovnost": "/ˈfrendli/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713791888
+  },
+  {
+    "cz": "legrační",
+    "en": "funny",
+    "en_vyslovnost": "/ˈfʌni/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713792888
+  },
+  {
+    "cz": "štědrý",
+    "en": "generous",
+    "en_vyslovnost": "/ˈdʒenərəs/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713793888
+  },
+  {
+    "cz": "nádherný, skvělý",
+    "en": "gorgeous",
+    "en_vyslovnost": "/ˈɡɔːdʒəs/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713794888
+  },
+  {
+    "cz": "hezký",
+    "en": "handsome",
+    "en_vyslovnost": "/ˈhændsəm/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713795888
+  },
+  {
+    "cz": "ochotný",
+    "en": "helpful",
+    "en_vyslovnost": "/ˈhelpfl/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713796888
+  },
+  {
+    "cz": "poctivý, čestný",
+    "en": "honest",
+    "en_vyslovnost": "/ˈɒnɪst/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713797888
+  },
+  {
+    "cz": "příšerný, hrozný",
+    "en": "horrible",
+    "en_vyslovnost": "/ˈhɒrəbl/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713798888
+  },
+  {
+    "cz": "lakomý",
+    "en": "mean (adj)",
+    "en_vyslovnost": "/miːn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713799888
+  },
+  {
+    "cz": "milý",
+    "en": "nice",
+    "en_vyslovnost": "/naɪs/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713800888
+  },
+  {
+    "cz": "tlustý, mající nadváhu",
+    "en": "overweight",
+    "en_vyslovnost": "/ˌəʊvəˈweɪt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713801888
+  },
+  {
+    "cz": "obyčejný, všední",
+    "en": "plain (adj)",
+    "en_vyslovnost": "/pleɪn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713802888
+  },
+  {
+    "cz": "oblíbený",
+    "en": "popular",
+    "en_vyslovnost": "/ˈpɒpjələ(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713803888
+  },
+  {
+    "cz": "krásný",
+    "en": "pretty",
+    "en_vyslovnost": "/ˈprɪti/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713804888
+  },
+  {
+    "cz": "tichý",
+    "en": "quiet",
+    "en_vyslovnost": "/ˈkwaɪət/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713805888
+  },
+  {
+    "cz": "stydlivý",
+    "en": "shy",
+    "en_vyslovnost": "/ʃaɪ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713806888
+  },
+  {
+    "cz": "štíhlý",
+    "en": "slim",
+    "en_vyslovnost": "/slɪm/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713807888
+  },
+  {
+    "cz": "hloupý",
+    "en": "stupid",
+    "en_vyslovnost": "/ˈstjuːpɪd/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713808888
+  },
+  {
+    "cz": "ošklivý",
+    "en": "ugly",
+    "en_vyslovnost": "/ˈʌɡli/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713809888
+  },
+  {
+    "cz": "dobře stavěný",
+    "en": "well-built",
+    "en_vyslovnost": "/ˌwel ˈbɪlt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "b",
+    "timestamp": 1748713810888
+  },
+  {
+    "cz": "kalkulačka",
+    "en": "calculator",
+    "en_vyslovnost": "/ˈkælkjəleɪtə(r)/",
+    "trida": 9,
     "unit": 1,
     "subunit": "c",
-    "timestamp": 1748269002027
+    "timestamp": 1748713811888
   },
   {
-    "cz": "d",
-    "en": "d",
-    "en_vyslovnost": "d",
+    "cz": "vyměnit",
+    "en": "exchange (v)",
+    "en_vyslovnost": "/ɪksˈtʃeɪndʒ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713812888
+  },
+  {
+    "cz": "vrácení peněz",
+    "en": "refund (n)",
+    "en_vyslovnost": "/ˈriːfʌnd/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713813888
+  },
+  {
+    "cz": "Vím, co myslíte.",
+    "en": "I see what you mean.",
+    "en_vyslovnost": "/aɪ siː wɒt juː miːn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713814888
+  },
+  {
+    "cz": "Moment.",
+    "en": "Just a moment.",
+    "en_vyslovnost": "/dʒʌst ə ˈməʊmənt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713815888
+  },
+  {
+    "cz": "objednávka, objednat",
+    "en": "order (n, v)",
+    "en_vyslovnost": "/ˈɔːdə(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713816888
+  },
+  {
+    "cz": "účtenka",
+    "en": "receipt",
+    "en_vyslovnost": "/rɪˈsiːt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713817888
+  },
+  {
+    "cz": "Co je s tím?",
+    "en": "What's wrong with …?",
+    "en_vyslovnost": "/wɒts rɒŋ wɪð/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713818888
+  },
+  {
+    "cz": "zip",
+    "en": "zip",
+    "en_vyslovnost": "/zɪp/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713819888
+  },
+  {
+    "cz": "Není to zapojené v zásuvce.",
+    "en": "It isn't plugged in.",
+    "en_vyslovnost": "/ɪt ˈɪznt plʌgd ɪn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713820888
+  },
+  {
+    "cz": "Není to zapnuté.",
+    "en": "It isn't switched on.",
+    "en_vyslovnost": "/ɪt ˈɪznt swɪtʃt ɒn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713821888
+  },
+  {
+    "cz": "Je to ohnuté.",
+    "en": "It's bent.",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713822888
+  },
+  {
+    "cz": "Je to rozbité.",
+    "en": "It's broken.",
+    "en_vyslovnost": "/ɪts ˈbrəʊkən/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713823888
+  },
+  {
+    "cz": "Je to spálené.",
+    "en": "It's burnt.",
+    "en_vyslovnost": "/ɪts bɜːnt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713824888
+  },
+  {
+    "cz": "Je to prasklé.",
+    "en": "It's cracked.",
+    "en_vyslovnost": "/ɪts krækt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713825888
+  },
+  {
+    "cz": "Je to poškozené.",
+    "en": "It's damaged.",
+    "en_vyslovnost": "/ɪts ˈdæmɪdʒd/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713826888
+  },
+  {
+    "cz": "Je to píchlé, prázdné.",
+    "en": "It's flat.",
+    "en_vyslovnost": "/ɪts flæt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713827888
+  },
+  {
+    "cz": "Je to zaseklé.",
+    "en": "It's jammed / stuck.",
+    "en_vyslovnost": "/ɪts dʒæmd / stʌk/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713828888
+  },
+  {
+    "cz": "Vydává to divný zvuk.",
+    "en": "It's making a funny noise.",
+    "en_vyslovnost": "/ɪts ˈmeɪkɪŋ ə ˈfʌni nɔɪz/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713829888
+  },
+  {
+    "cz": "Chybí to.",
+    "en": "It's missing.",
+    "en_vyslovnost": "/ɪts ˈmɪsɪŋ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713830888
+  },
+  {
+    "cz": "Je to poškrábané.",
+    "en": "It's scratched.",
+    "en_vyslovnost": "/ɪts skrætʃt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713831888
+  },
+  {
+    "cz": "Je to špatná velikost.",
+    "en": "It's the wrong size.",
+    "en_vyslovnost": "/ɪts ðə rɒŋ saɪz/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713832888
+  },
+  {
+    "cz": "Je to roztržené.",
+    "en": "It's torn.",
+    "en_vyslovnost": "/ɪts tɔːn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713833888
+  },
+  {
+    "cz": "Baterie je vybitá.",
+    "en": "The battery's dead.",
+    "en_vyslovnost": "/ðə ˈbætəri z ded/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "c",
+    "timestamp": 1748713834888
+  },
+  {
+    "cz": "mrkat",
+    "en": "blink",
+    "en_vyslovnost": "/blɪŋk/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713835888
+  },
+  {
+    "cz": "pověsit (něco)",
+    "en": "hang (something) up",
+    "en_vyslovnost": "/hæŋ ˈsʌmθɪŋ ʌp/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713836888
+  },
+  {
+    "cz": "Mám hlad jako vlk.",
+    "en": "I could eat a horse.",
+    "en_vyslovnost": "/aɪ kəd iːt ə hɔːs/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713837888
+  },
+  {
+    "cz": "netrpělivý",
+    "en": "impatient",
+    "en_vyslovnost": "/ɪmˈpeɪʃnt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713838888
+  },
+  {
+    "cz": "vyhladovělý",
+    "en": "starving",
+    "en_vyslovnost": "/ˈstɑːvɪŋ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713839888
+  },
+  {
+    "cz": "v mžiku",
+    "en": "in a flash",
+    "en_vyslovnost": "/ɪn ə flæʃ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713840888
+  },
+  {
+    "cz": "Už toho mám dost.",
+    "en": "I've had enough.",
+    "en_vyslovnost": "/aɪv hæd ɪˈnʌf/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713841888
+  },
+  {
+    "cz": "bručet, mumlat",
+    "en": "mutter",
+    "en_vyslovnost": "/ˈmʌtə(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713842888
+  },
+  {
+    "cz": "jízda, projížďka",
+    "en": "ride (n)",
+    "en_vyslovnost": "/raɪd/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713843888
+  },
+  {
+    "cz": "zaskřípět",
+    "en": "screech (v)",
+    "en_vyslovnost": "/skriːtʃ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713844888
+  },
+  {
+    "cz": "zaječet, zapískat",
+    "en": "squeal (v)",
+    "en_vyslovnost": "/skwiːl/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713845888
+  },
+  {
+    "cz": "vylekaný, poplašený",
+    "en": "startled",
+    "en_vyslovnost": "/ˈstɑːtld/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713846888
+  },
+  {
+    "cz": "stereo",
+    "en": "stereo",
+    "en_vyslovnost": "/ˈsteriəʊ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713847888
+  },
+  {
+    "cz": "sluneční světlo",
+    "en": "sunshine",
+    "en_vyslovnost": "/ˈsʌnʃaɪn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713848888
+  },
+  {
+    "cz": "převrátit (se)",
+    "en": "turn over",
+    "en_vyslovnost": "/tɜːn ˈəʊvə(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713849888
+  },
+  {
+    "cz": "pneumatika",
+    "en": "tyre",
+    "en_vyslovnost": "/taɪə(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713850888
+  },
+  {
+    "cz": "divný",
+    "en": "weird",
+    "en_vyslovnost": "/wɪəd/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713851888
+  },
+  {
+    "cz": "strašpytel, bačkora",
+    "en": "wimp",
+    "en_vyslovnost": "/wɪmp/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713852888
+  },
+  {
+    "cz": "přání, přát si",
+    "en": "wish (n, v)",
+    "en_vyslovnost": "/wɪʃ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713853888
+  },
+  {
+    "cz": "agresivní",
+    "en": "aggressive",
+    "en_vyslovnost": "/əˈɡresɪv/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713854888
+  },
+  {
+    "cz": "zesilovač",
+    "en": "amplifier",
+    "en_vyslovnost": "/ˈæmplɪfaɪə(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713855888
+  },
+  {
+    "cz": "pestrobarevný",
+    "en": "colorful",
+    "en_vyslovnost": "/ˈkʌləfl/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713856888
+  },
+  {
+    "cz": "kostým",
+    "en": "costume",
+    "en_vyslovnost": "/ˈkɒstjuːm/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713857888
+  },
+  {
+    "cz": "barva, obarvit",
+    "en": "dye (n, v)",
+    "en_vyslovnost": "/daɪ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713858888
+  },
+  {
+    "cz": "vyvíjet se",
+    "en": "evolve",
+    "en_vyslovnost": "/ɪˈvɒlv/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713859888
+  },
+  {
+    "cz": "zaprvé, především",
+    "en": "firstly",
+    "en_vyslovnost": "/ˈfɜːstli/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713860888
+  },
+  {
+    "cz": "folková hudba",
+    "en": "folk music",
+    "en_vyslovnost": "/fəʊk ˈmjuːzɪk/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713861888
+  },
+  {
+    "cz": "generace",
+    "en": "generation",
+    "en_vyslovnost": "/ˌdʒenəˈreɪʃn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713862888
+  },
+  {
+    "cz": "hippies",
+    "en": "hippies",
+    "en_vyslovnost": "/ˈhɪpiz/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713863888
+  },
+  {
+    "cz": "naproti tomu, na rozdíl",
+    "en": "in contrast",
+    "en_vyslovnost": "/ɪn ˈkɒntrɑːst/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713864888
+  },
+  {
+    "cz": "melodie",
+    "en": "melody",
+    "en_vyslovnost": "/ˈmelədi/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713865888
+  },
+  {
+    "cz": "špendlík",
+    "en": "pin (n)",
+    "en_vyslovnost": "/pɪn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713866888
+  },
+  {
+    "cz": "rytmus",
+    "en": "rhythm",
+    "en_vyslovnost": "/ˈrɪðəm/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713867888
+  },
+  {
+    "cz": "zadruhé",
+    "en": "secondly",
+    "en_vyslovnost": "/ˈsekəndli/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713868888
+  },
+  {
+    "cz": "zpěvný, k zazpívání si",
+    "en": "sing-along",
+    "en_vyslovnost": "/ˈsɪŋ əlɒŋ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713869888
+  },
+  {
+    "cz": "otrok",
+    "en": "slave",
+    "en_vyslovnost": "/sleɪv/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713870888
+  },
+  {
+    "cz": "reproduktor",
+    "en": "speaker",
+    "en_vyslovnost": "/ˈspiːkə(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713871888
+  },
+  {
+    "cz": "zatřetí",
+    "en": "thirdly",
+    "en_vyslovnost": "/ˈθɜːdli/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713872888
+  },
+  {
+    "cz": "parno, vedro",
+    "en": "burning hot",
+    "en_vyslovnost": "/ˈbɜːnɪŋ hɒt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713873888
+  },
+  {
+    "cz": "skořice",
+    "en": "cinnamon",
+    "en_vyslovnost": "/ˈsɪnəmən/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713874888
+  },
+  {
+    "cz": "civilizace",
+    "en": "civilization",
+    "en_vyslovnost": "/ˌsɪvəlaɪˈzeɪʃən/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713875888
+  },
+  {
+    "cz": "padnout, zhroutit se",
+    "en": "collapse (v)",
+    "en_vyslovnost": "/kəˈlæps/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713876888
+  },
+  {
+    "cz": "kompas",
+    "en": "compass",
+    "en_vyslovnost": "/ˈkʌmpəs/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713877888
+  },
+  {
+    "cz": "nakonec",
+    "en": "eventually",
+    "en_vyslovnost": "/ɪˈventʃuəli/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713878888
+  },
+  {
+    "cz": "báječný, skvostný",
+    "en": "fabulous",
+    "en_vyslovnost": "/ˈfæbjələs/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713879888
+  },
+  {
+    "cz": "mrazivá zima",
+    "en": "freezing cold",
+    "en_vyslovnost": "/ˈfriːzɪŋ kəʊld/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713880888
+  },
+  {
+    "cz": "zázvor",
+    "en": "ginger (n)",
+    "en_vyslovnost": "/ˈdʒɪndʒə(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713881888
+  },
+  {
+    "cz": "střelný prach",
+    "en": "gunpowder",
+    "en_vyslovnost": "/ˈɡʌnˌpaʊdə(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713882888
+  },
+  {
+    "cz": "vynález",
+    "en": "invention",
+    "en_vyslovnost": "/ɪnˈvenʃən/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713883888
+  },
+  {
+    "cz": "muškátový oříšek",
+    "en": "nutmeg",
+    "en_vyslovnost": "/ˈnʌtmeɡ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713884888
+  },
+  {
+    "cz": "přístav",
+    "en": "port",
+    "en_vyslovnost": "/pɔːt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713885888
+  },
+  {
+    "cz": "tisk",
+    "en": "printing",
+    "en_vyslovnost": "/ˈprɪntɪŋ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713886888
+  },
+  {
+    "cz": "koření",
+    "en": "spice",
+    "en_vyslovnost": "/spaɪs/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713887888
+  },
+  {
+    "cz": "obchod",
+    "en": "trade (n)",
+    "en_vyslovnost": "/treɪd/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713888888
+  },
+  {
+    "cz": "cesta",
+    "en": "voyage",
+    "en_vyslovnost": "/ˈvɔɪɪdʒ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713889888
+  },
+  {
+    "cz": "táhnout",
+    "en": "drag",
+    "en_vyslovnost": "/dræɡ/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713890888
+  },
+  {
+    "cz": "drak",
+    "en": "kite",
+    "en_vyslovnost": "/kaɪt/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713891888
+  },
+  {
+    "cz": "myšlenková mapa",
+    "en": "mind map",
+    "en_vyslovnost": "/maɪnd mæp/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713892888
+  },
+  {
+    "cz": "spidergram (pavoukový graf)",
+    "en": "spidergram",
+    "en_vyslovnost": "/ˈspaɪdəɡræm/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713893888
+  },
+  {
+    "cz": "vzít (něco) zpět",
+    "en": "take (something) back",
+    "en_vyslovnost": "/teɪk ˈsʌmθɪŋ bæk/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713894888
+  },
+  {
+    "cz": "svědek",
+    "en": "witness (n)",
+    "en_vyslovnost": "/ˈwɪtnəs/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713895888
+  },
+  {
+    "cz": "důsledkem toho",
+    "en": "as a result of",
+    "en_vyslovnost": "/æz ə rɪˈzʌlt ɒv/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713896888
+  },
+  {
+    "cz": "bosý",
+    "en": "bare (adj)",
+    "en_vyslovnost": "/beə(r)/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713897888
+  },
+  {
+    "cz": "parta, sebranka",
+    "en": "crew",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713898888
+  },
+  {
+    "cz": "melodie, písnička",
+    "en": "tune (n)",
+    "en_vyslovnost": "/tjuːn/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713899888
+  },
+  {
+    "cz": "různé druhy, celá škála",
+    "en": "variety",
+    "en_vyslovnost": "/vəˈraɪəti/",
+    "trida": 9,
+    "unit": 1,
+    "subunit": "d",
+    "timestamp": 1748713900888
+  },
+  {
+    "cz": "vojenské letectvo",
+    "en": "air force",
+    "en_vyslovnost": "/ˈeə fɔːs/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713901888
+  },
+  {
+    "cz": "stránka, aspekt",
+    "en": "aspect",
+    "en_vyslovnost": "/ˈæspekt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713902888
+  },
+  {
+    "cz": "poradce pro výběr povolání",
+    "en": "careers adviser",
+    "en_vyslovnost": "/kəˈrɪəz ədˈvaɪzə(r)/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713903888
+  },
+  {
+    "cz": "vydělat",
+    "en": "earn",
+    "en_vyslovnost": "/ɜːn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713904888
+  },
+  {
+    "cz": "předsevzetí",
+    "en": "resolution",
+    "en_vyslovnost": "/ˌrezəˈluːʃən/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713905888
+  },
+  {
+    "cz": "stálý",
+    "en": "permanent",
+    "en_vyslovnost": "/ˈpɜːmənənt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713906888
+  },
+  {
+    "cz": "spontánní",
+    "en": "spontaneous",
+    "en_vyslovnost": "/spɒnˈteɪniəs/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713907888
+  },
+  {
+    "cz": "rovnou, hned",
+    "en": "straightaway",
+    "en_vyslovnost": "/ˌstreɪtəˈweɪ/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713908888
+  },
+  {
+    "cz": "jachta",
+    "en": "yacht",
+    "en_vyslovnost": "/jɒt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713909888
+  },
+  {
+    "cz": "architekt",
+    "en": "architect",
+    "en_vyslovnost": "/ˈɑːkɪtekt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713910888
+  },
+  {
+    "cz": "stavbař",
+    "en": "builder",
+    "en_vyslovnost": "/ˈbɪldə(r)/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713911888
+  },
+  {
+    "cz": "šéfkuchař",
+    "en": "chef",
+    "en_vyslovnost": "/ʃef/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713912888
+  },
+  {
+    "cz": "uklízeč/ka",
+    "en": "cleaner",
+    "en_vyslovnost": "/ˈkliːnə(r)/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713913888
+  },
+  {
+    "cz": "elektrikář",
+    "en": "electrician",
+    "en_vyslovnost": "/ɪˌlekˈtrɪʃən/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713914888
+  },
+  {
+    "cz": "inženýr, technik",
+    "en": "engineer",
+    "en_vyslovnost": "/ˌendʒɪˈnɪə(r)/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713915888
+  },
+  {
+    "cz": "letuška, stevard",
+    "en": "flight attendant",
+    "en_vyslovnost": "/ˈflaɪt əˌtendənt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713916888
+  },
+  {
+    "cz": "řidič nákladního auta",
+    "en": "lorry driver",
+    "en_vyslovnost": "/ˈlɒri ˌdraɪvə(r)/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713917888
+  },
+  {
+    "cz": "zdravotní sestra",
+    "en": "nurse",
+    "en_vyslovnost": "/nɜːs/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713918888
+  },
+  {
+    "cz": "pilot",
+    "en": "pilot",
+    "en_vyslovnost": "/ˈpaɪlət/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713919888
+  },
+  {
+    "cz": "sekretář/ka",
+    "en": "secretary",
+    "en_vyslovnost": "/ˈsekrətri/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713920888
+  },
+  {
+    "cz": "veterinář",
+    "en": "vet",
+    "en_vyslovnost": "/vet/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "a",
+    "timestamp": 1748713921888
+  },
+  {
+    "cz": "jistý",
+    "en": "certain",
+    "en_vyslovnost": "/ˈsɜːtn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713922888
+  },
+  {
+    "cz": "výběr",
+    "en": "choice",
+    "en_vyslovnost": "/tʃɔɪs/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713923888
+  },
+  {
+    "cz": "splnit se",
+    "en": "come true",
+    "en_vyslovnost": "/kʌm truː/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713924888
+  },
+  {
+    "cz": "každodenní",
+    "en": "everyday",
+    "en_vyslovnost": "/ˈevrideɪ/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713925888
+  },
+  {
+    "cz": "cíl",
+    "en": "goal",
+    "en_vyslovnost": "/ɡəʊl/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713926888
+  },
+  {
+    "cz": "podívat se zpět",
+    "en": "look back",
+    "en_vyslovnost": "/lʊk bæk/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713927888
+  },
+  {
+    "cz": "los",
+    "en": "lottery ticket",
+    "en_vyslovnost": "/ˈlɒtəri ˌtɪkɪt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713928888
+  },
+  {
+    "cz": "praktický, zkušený",
+    "en": "practical",
+    "en_vyslovnost": "/ˈpræktɪkəl/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713929888
+  },
+  {
+    "cz": "psycholog",
+    "en": "psychologist",
+    "en_vyslovnost": "/saɪˈkɒlədʒɪst/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713930888
+  },
+  {
+    "cz": "dámská peněženka",
+    "en": "purse",
+    "en_vyslovnost": "/pɜːs/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713931888
+  },
+  {
+    "cz": "vyřešit problém",
+    "en": "solve a problem",
+    "en_vyslovnost": "/sɒlv ə ˈprɒbləm/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713932888
+  },
+  {
+    "cz": "určitý, přesný",
+    "en": "specific",
+    "en_vyslovnost": "/spəˈsɪfɪk/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713933888
+  },
+  {
+    "cz": "úspěšný",
+    "en": "successful",
+    "en_vyslovnost": "/səkˈsesfl/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713934888
+  },
+  {
+    "cz": "časový limit",
+    "en": "time limit",
+    "en_vyslovnost": "/taɪm ˈlɪmɪt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "b",
+    "timestamp": 1748713935888
+  },
+  {
+    "cz": "schůzka",
+    "en": "appointment",
+    "en_vyslovnost": "/əˈpɔɪntmənt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713936888
+  },
+  {
+    "cz": "prohlídka, kontrola",
+    "en": "check-up",
+    "en_vyslovnost": "/ˈtʃek ʌp/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713937888
+  },
+  {
+    "cz": "potvrdit",
+    "en": "confirm",
+    "en_vyslovnost": "/kənˈfɜːm/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713938888
+  },
+  {
+    "cz": "zubní ordinace",
+    "en": "dental surgery",
+    "en_vyslovnost": "/ˈdentl ˈsɜːdʒəri/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713939888
+  },
+  {
+    "cz": "Nezvládnu to.",
+    "en": "I can't make it.",
+    "en_vyslovnost": "/aɪ kɑːnt ˈmeɪk ɪt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713940888
+  },
+  {
+    "cz": "Obávám se …",
+    "en": "I'm afraid …",
+    "en_vyslovnost": "/aɪm əˈfreɪd/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713941888
+  },
+  {
+    "cz": "Omlouvám se, ale …",
+    "en": "I'm sorry but …",
+    "en_vyslovnost": "/aɪm ˈsɒri bət/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713942888
+  },
+  {
+    "cz": "Podívám se na to …",
+    "en": "Let me see …",
+    "en_vyslovnost": "/let mi siː/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713943888
+  },
+  {
+    "cz": "To mi nevyhovuje.",
+    "en": "That's no good for me.",
+    "en_vyslovnost": "/ðæts nəʊ ɡʊd fə miː/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713944888
+  },
+  {
+    "cz": "A co …?",
+    "en": "What about …?",
+    "en_vyslovnost": "/wɒt əˈbaʊt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713945888
+  },
+  {
+    "cz": "v, o, na",
+    "en": "at",
+    "en_vyslovnost": "/æt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713946888
+  },
+  {
+    "cz": "v, ve",
+    "en": "in",
+    "en_vyslovnost": "/ɪn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713947888
+  },
+  {
+    "cz": "v, ve",
+    "en": "on",
+    "en_vyslovnost": "/ɒn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "c",
+    "timestamp": 1748713948888
+  },
+  {
+    "cz": "přepracovat, adaptovat",
+    "en": "adapt",
+    "en_vyslovnost": "/əˈdæpt/",
     "trida": 9,
     "unit": 2,
     "subunit": "d",
-    "timestamp": 1748270488498
+    "timestamp": 1748713949888
   },
   {
-    "cz": "postel",
-    "en": "bed",
-    "en_vyslovnost": "sit",
-    "trida": 3,
-    "unit": 3,
+    "cz": "zahanbený",
+    "en": "ashamed",
+    "en_vyslovnost": "/əˈʃeɪmd/",
+    "trida": 9,
+    "unit": 2,
     "subunit": "d",
-    "timestamp": 1748272279328
+    "timestamp": 1748713950888
+  },
+  {
+    "cz": "žehnat, požehnat",
+    "en": "bless",
+    "en_vyslovnost": "/bles/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713951888
+  },
+  {
+    "cz": "šéf",
+    "en": "boss",
+    "en_vyslovnost": "/bɒs/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713952888
+  },
+  {
+    "cz": "koleda",
+    "en": "carol",
+    "en_vyslovnost": "/ˈkærəl/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713953888
+  },
+  {
+    "cz": "hřbitov",
+    "en": "cemetery",
+    "en_vyslovnost": "/ˈsemətri/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713954888
+  },
+  {
+    "cz": "řetězy",
+    "en": "chains",
+    "en_vyslovnost": "/tʃeɪnz/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713955888
+  },
+  {
+    "cz": "změnit své chování",
+    "en": "change your ways",
+    "en_vyslovnost": "/tʃeɪndʒ jɔː weɪz/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713956888
+  },
+  {
+    "cz": "bezcitný",
+    "en": "cold-hearted",
+    "en_vyslovnost": "/ˌkəʊldˈhɑːtɪd/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713957888
+  },
+  {
+    "cz": "obrovský",
+    "en": "enormous",
+    "en_vyslovnost": "/ɪˈnɔːməs/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713958888
+  },
+  {
+    "cz": "snoubenka",
+    "en": "fiancée",
+    "en_vyslovnost": "/fiˈɒnseɪ/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713959888
+  },
+  {
+    "cz": "na věky",
+    "en": "for eternity",
+    "en_vyslovnost": "/fɔːr ɪˈtɜːnəti/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713960888
+  },
+  {
+    "cz": "pán",
+    "en": "gentleman (pl. gentlemen)",
+    "en_vyslovnost": "/ˈdʒentlmən/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713961888
+  },
+  {
+    "cz": "hrob",
+    "en": "grave (n)",
+    "en_vyslovnost": "/ɡreɪv/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713962888
+  },
+  {
+    "cz": "zničený žalem",
+    "en": "heartbroken",
+    "en_vyslovnost": "/ˈhɑːtˌbrəʊkən/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713963888
+  },
+  {
+    "cz": "kdyby vám to nevadilo",
+    "en": "if you don't mind",
+    "en_vyslovnost": "/ɪf juː dəʊnt maɪnd/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713964888
+  },
+  {
+    "cz": "okamžitý",
+    "en": "instant (adj)",
+    "en_vyslovnost": "/ˈɪnstənt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713965888
+  },
+  {
+    "cz": "Veselé Vánoce!",
+    "en": "Merry Christmas!",
+    "en_vyslovnost": "/ˈmeri ˈkrɪsməs/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713966888
+  },
+  {
+    "cz": "ponaučení, poselství",
+    "en": "moral (n)",
+    "en_vyslovnost": "/ˈmɒrəl/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713967888
+  },
+  {
+    "cz": "synovec",
+    "en": "nephew",
+    "en_vyslovnost": "/ˈnefjuː/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713968888
+  },
+  {
+    "cz": "duch",
+    "en": "spirit",
+    "en_vyslovnost": "/ˈspɪrɪt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713969888
+  },
+  {
+    "cz": "vyděšený",
+    "en": "terrified",
+    "en_vyslovnost": "/ˈterɪfaɪd/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713970888
+  },
+  {
+    "cz": "mzda",
+    "en": "wage",
+    "en_vyslovnost": "/weɪdʒ/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713971888
+  },
+  {
+    "cz": "varovat",
+    "en": "warn",
+    "en_vyslovnost": "/wɔːn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713972888
+  },
+  {
+    "cz": "obřad, ceremoniál",
+    "en": "ceremony",
+    "en_vyslovnost": "/ˈserəməni/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713973888
+  },
+  {
+    "cz": "roztleskávačka",
+    "en": "cheerleader",
+    "en_vyslovnost": "/ˈtʃɪəˌliːdə(r)/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713974888
+  },
+  {
+    "cz": "divadelní hra",
+    "en": "drama",
+    "en_vyslovnost": "/ˈdrɑːmə/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713975888
+  },
+  {
+    "cz": "talár",
+    "en": "gown",
+    "en_vyslovnost": "/ɡaʊn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713976888
+  },
+  {
+    "cz": "základní škola",
+    "en": "Grade School",
+    "en_vyslovnost": "/ɡreɪd skuːl/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713977888
+  },
+  {
+    "cz": "absolvovat, vystudovat",
+    "en": "graduate (v)",
+    "en_vyslovnost": "/ˈɡrædʒueɪt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713978888
+  },
+  {
+    "cz": "diplom",
+    "en": "graduation certificate",
+    "en_vyslovnost": "/ˌɡrædʒuˈeɪʃn səˈtɪfɪkət/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713979888
+  },
+  {
+    "cz": "den předávání diplomů",
+    "en": "Graduation Day",
+    "en_vyslovnost": "/ˌɡrædʒuˈeɪʃn deɪ/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713980888
+  },
+  {
+    "cz": "maturitní ples",
+    "en": "High School Prom",
+    "en_vyslovnost": "/haɪ skuːl prɒm/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713981888
+  },
+  {
+    "cz": "nižší střední škola (ročníky 7. - 9.)",
+    "en": "Junior High School",
+    "en_vyslovnost": "/ˌdʒuːniə haɪ skuːl/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713982888
+  },
+  {
+    "cz": "práce na částečný úvazek",
+    "en": "part-time job",
+    "en_vyslovnost": "/ˌpɑːt taɪm dʒɒb/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713983888
+  },
+  {
+    "cz": "benzínová pumpa",
+    "en": "petrol station",
+    "en_vyslovnost": "/ˈpetrəl ˌsteɪʃn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713984888
+  },
+  {
+    "cz": "slib veřejnosti",
+    "en": "pledge of loyalty",
+    "en_vyslovnost": "/pledʒ əv ˈlɔɪəlti/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713985888
+  },
+  {
+    "cz": "soukromá škola",
+    "en": "private school",
+    "en_vyslovnost": "/ˈpraɪvət skuːl/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713986888
+  },
+  {
+    "cz": "vyvěsit",
+    "en": "raise",
+    "en_vyslovnost": "/reɪz/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713987888
+  },
+  {
+    "cz": "vyšší střední škola (ročníky 10. - 12.)",
+    "en": "Senior High School",
+    "en_vyslovnost": "/ˌsiːniə haɪ skuːl/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713988888
+  },
+  {
+    "cz": "společenské cítění",
+    "en": "sense of community",
+    "en_vyslovnost": "/sens əv kəˈmjuːnəti/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713989888
+  },
+  {
+    "cz": "státní vzdělání",
+    "en": "state education",
+    "en_vyslovnost": "/steɪt edʒuˈkeɪʃn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713990888
+  },
+  {
+    "cz": "státní škola",
+    "en": "state school",
+    "en_vyslovnost": "/steɪt skuːl/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713991888
+  },
+  {
+    "cz": "adrenalin",
+    "en": "adrenaline",
+    "en_vyslovnost": "/əˈdrenəlɪn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713992888
+  },
+  {
+    "cz": "dospělý",
+    "en": "adult",
+    "en_vyslovnost": "/ˈædʌlt/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713993888
+  },
+  {
+    "cz": "biologické hodiny",
+    "en": "body clock",
+    "en_vyslovnost": "/ˈbɒdi klɒk/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713994888
+  },
+  {
+    "cz": "oční víčko",
+    "en": "eyelid",
+    "en_vyslovnost": "/ˈaɪlɪd/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713995888
+  },
+  {
+    "cz": "hormon",
+    "en": "hormone",
+    "en_vyslovnost": "/ˈhɔːməʊn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713996888
+  },
+  {
+    "cz": "udržovat (někoho) vzhůru",
+    "en": "keep (somebody) awake",
+    "en_vyslovnost": "/kiːp əˈweɪk/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713997888
+  },
+  {
+    "cz": "melatonin",
+    "en": "melatonin",
+    "en_vyslovnost": "/ˌmeləˈtəʊnɪn/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713998888
+  },
+  {
+    "cz": "žebřík",
+    "en": "ladder",
+    "en_vyslovnost": "/ˈlædə/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748713999888
+  },
+  {
+    "cz": "ujistit se",
+    "en": "make sure",
+    "en_vyslovnost": "/meɪk ʃʊr/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748714000888
+  },
+  {
+    "cz": "panikařit",
+    "en": "panic (v)",
+    "en_vyslovnost": "/ˈpænɪk/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748714001888
+  },
+  {
+    "cz": "úkol",
+    "en": "task",
+    "en_vyslovnost": "/tɑːsk/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748714002888
+  },
+  {
+    "cz": "tapeta",
+    "en": "wallpaper",
+    "en_vyslovnost": "/ˈwɔːlpeɪpər/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748714003888
+  },
+  {
+    "cz": "Nesnáším …",
+    "en": "I can't bear to …",
+    "en_vyslovnost": "/aɪ kænt bɛə tuː/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748714004888
+  },
+  {
+    "cz": "na druhou stranu",
+    "en": "on the other hand",
+    "en_vyslovnost": "/ɒn ðə ˈʌðər hænd/",
+    "trida": 9,
+    "unit": 2,
+    "subunit": "d",
+    "timestamp": 1748714005888
+  },
+  {
+    "cz": "odvážit se, vyzvat",
+    "en": "dare (v)",
+    "en_vyslovnost": "/dɛə/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714006888
+  },
+  {
+    "cz": "obočí",
+    "en": "eyebrow",
+    "en_vyslovnost": "/ˈaɪbraʊ/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714007888
+  },
+  {
+    "cz": "strašidelný dům",
+    "en": "haunted house",
+    "en_vyslovnost": "/ˈhɔːntɪd haʊs/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714008888
+  },
+  {
+    "cz": "Vyzývám tě!",
+    "en": "I dare you!",
+    "en_vyslovnost": "/aɪ dɛə juː/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714009888
+  },
+  {
+    "cz": "domnělý, zdánlivý",
+    "en": "imaginary",
+    "en_vyslovnost": "/ɪˈmædʒɪnəri/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714010888
+  },
+  {
+    "cz": "syrový",
+    "en": "raw",
+    "en_vyslovnost": "/rɔː/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714011888
+  },
+  {
+    "cz": "seskok padákem (se zpožděným otevřením padáku)",
+    "en": "skydiving",
+    "en_vyslovnost": "/ˈskaɪdaɪvɪŋ/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714012888
+  },
+  {
+    "cz": "tarantule",
+    "en": "tarantula",
+    "en_vyslovnost": "/təˈræntjʊlə/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714013888
+  },
+  {
+    "cz": "neskutečný",
+    "en": "unreal",
+    "en_vyslovnost": "/ʌnˈrɪəl/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714014888
+  },
+  {
+    "cz": "… bys? (podmiňovací způsob)",
+    "en": "Would you …?",
+    "en_vyslovnost": "/wʊd juː/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714015888
+  },
+  {
+    "cz": "obarvit si vlasy (na oranžovo)",
+    "en": "dye your hair (orange)",
+    "en_vyslovnost": "/daɪ jɔːr heə (ˈɔːrɪndʒ)/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714016888
+  },
+  {
+    "cz": "mít neobvyklý účes",
+    "en": "have an unusual hairstyle",
+    "en_vyslovnost": "/hæv ən ʌnˈjuːʒʊəl ˈheəstaɪl/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714017888
+  },
+  {
+    "cz": "mít tetování",
+    "en": "have a tattoo",
+    "en_vyslovnost": "/hæv ə tæˈtuː/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714018888
+  },
+  {
+    "cz": "nechat si dát piercing do jazyku",
+    "en": "have (your tongue) pierced",
+    "en_vyslovnost": "/hæv jɔːr tʌŋ pɪəst/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714019888
+  },
+  {
+    "cz": "namalovat si na obličej barvy svého týmu",
+    "en": "paint your face in your team's colours",
+    "en_vyslovnost": "/peɪnt jɔːr feɪs ɪn jɔːr tiːmz ˈkʌləz/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714020888
+  },
+  {
+    "cz": "oholit si hlavu",
+    "en": "shave your head",
+    "en_vyslovnost": "/ʃeɪv jɔːr hɛd/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "a",
+    "timestamp": 1748714021888
+  },
+  {
+    "cz": "popel",
+    "en": "ash",
+    "en_vyslovnost": "/æʃ/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714022888
+  },
+  {
+    "cz": "atomová bomba",
+    "en": "atomic bomb",
+    "en_vyslovnost": "/əˈtɒmɪk bɒm/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714023888
+  },
+  {
+    "cz": "zastínit",
+    "en": "block out",
+    "en_vyslovnost": "/blɒk aʊt/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714024888
+  },
+  {
+    "cz": "kráter",
+    "en": "crater",
+    "en_vyslovnost": "/ˈkreɪtə/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714025888
+  },
+  {
+    "cz": "nemoc, choroba",
+    "en": "disease",
+    "en_vyslovnost": "/dɪˈziːz/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714026888
+  },
+  {
+    "cz": "sucho",
+    "en": "drought",
+    "en_vyslovnost": "/draʊt/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714027888
+  },
+  {
+    "cz": "prach",
+    "en": "dust",
+    "en_vyslovnost": "/dʌst/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714028888
+  },
+  {
+    "cz": "zemětřesení",
+    "en": "earthquake",
+    "en_vyslovnost": "/ˈɜːθkweɪk/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714029888
+  },
+  {
+    "cz": "hladomor",
+    "en": "famine",
+    "en_vyslovnost": "/ˈfæmɪn/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714030888
+  },
+  {
+    "cz": "povodeň, zaplavit",
+    "en": "flood (n, v)",
+    "en_vyslovnost": "/flʌd/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714031888
+  },
+  {
+    "cz": "lesní požár",
+    "en": "forest fire",
+    "en_vyslovnost": "/ˈfɒrɪst faɪə/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714032888
+  },
+  {
+    "cz": "hurikán",
+    "en": "hurricane",
+    "en_vyslovnost": "/ˈhʌrɪkeɪn/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714033888
+  },
+  {
+    "cz": "láva",
+    "en": "lava",
+    "en_vyslovnost": "/ˈlævə/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714034888
+  },
+  {
+    "cz": "magma",
+    "en": "magma",
+    "en_vyslovnost": "/ˈmæɡmə/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714035888
+  },
+  {
+    "cz": "roztavená skála",
+    "en": "molten rock",
+    "en_vyslovnost": "/ˈməʊltən rɒk/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714036888
+  },
+  {
+    "cz": "poklidný, mírumilovný",
+    "en": "peaceful",
+    "en_vyslovnost": "/ˈpiːsfəl/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714037888
+  },
+  {
+    "cz": "ztroskotaný",
+    "en": "shipwrecked",
+    "en_vyslovnost": "/ˈʃɪpˌrɛkt/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714038888
+  },
+  {
+    "cz": "supervulkán",
+    "en": "supervolcano",
+    "en_vyslovnost": "/ˌsuːpəˈvɔːlkæə nəʊ/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714039888
+  },
+  {
+    "cz": "přeživší",
+    "en": "survivor",
+    "en_vyslovnost": "/səˈvaɪvə/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714040888
+  },
+  {
+    "cz": "tornádo",
+    "en": "tornado",
+    "en_vyslovnost": "/tɔːˈneɪdəʊ/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714041888
+  },
+  {
+    "cz": "tsunami",
+    "en": "tsunami",
+    "en_vyslovnost": "/tsuːˈnɑːmi/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714042888
+  },
+  {
+    "cz": "celosvětově",
+    "en": "worldwide",
+    "en_vyslovnost": "/ˈwɜːldwaɪd/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714043888
+  },
+  {
+    "cz": "zničit",
+    "en": "destroy",
+    "en_vyslovnost": "/dɪsˈtrɔɪ/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714044888
+  },
+  {
+    "cz": "zkáza, zničení",
+    "en": "destruction",
+    "en_vyslovnost": "/dɪsˈtrʌkʃən/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714045888
+  },
+  {
+    "cz": "vybuchnout (o sopce)",
+    "en": "erupt",
+    "en_vyslovnost": "/ɪˈrʌpt/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714046888
+  },
+  {
+    "cz": "výbuch (sopky), erupce",
+    "en": "eruption",
+    "en_vyslovnost": "/ɪˈrʌpʃən/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714047888
+  },
+  {
+    "cz": "vybuchnout",
+    "en": "explode",
+    "en_vyslovnost": "/ɪksˈpləʊd/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714048888
+  },
+  {
+    "cz": "výbuch",
+    "en": "explosion",
+    "en_vyslovnost": "/ɪkˈspləʊʒən/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714049888
+  },
+  {
+    "cz": "znečistit",
+    "en": "pollute",
+    "en_vyslovnost": "/pəˈluːt/",
+    "trida": 9,
+    "unit": 3,
+    "subunit": "b",
+    "timestamp": 1748714050888
+  },
+  {
+    "cz": "hotovost",
+    "en": "cash (n)",
+    "en_vyslovnost": "/kæf/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714051888
+  },
+  {
+    "cz": "šek",
+    "en": "cheque",
+    "en_vyslovnost": "/tfek/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714052888
+  },
+  {
+    "cz": "mince",
+    "en": "coin",
+    "en_vyslovnost": "/kɔın/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714053888
+  },
+  {
+    "cz": "padělat, falšovat",
+    "en": "counterfeit (v)",
+    "en_vyslovnost": "/'kauntǝfıt/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714054888
+  },
+  {
+    "cz": "padělatelství, padělání",
+    "en": "counterfeiting",
+    "en_vyslovnost": "/'kauntǝfıtıŋ/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714055888
+  },
+  {
+    "cz": "kreditní karta",
+    "en": "credit card",
+    "en_vyslovnost": "/'kredit,ka:d/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714056888
+  },
+  {
+    "cz": "debetní karta",
+    "en": "debit card",
+    "en_vyslovnost": "/'debit,ka:d/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714057888
+  },
+  {
+    "cz": "vyměnit",
+    "en": "exchange",
+    "en_vyslovnost": "/ıks't feindz/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714058888
+  },
+  {
+    "cz": "bankovka",
+    "en": "note (n)",
+    "en_vyslovnost": "/nǝut/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714059888
+  },
+  {
+    "cz": "rezervace",
+    "en": "booking",
+    "en_vyslovnost": "/'bukın/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714060888
+  },
+  {
+    "cz": "rada (městská)",
+    "en": "council",
+    "en_vyslovnost": "/'kaunsl/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714061888
+  },
+  {
+    "cz": "předpovídat",
+    "en": "predict",
+    "en_vyslovnost": "/prı'dıkt/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714062888
+  },
+  {
+    "cz": "návrh",
+    "en": "proposal",
+    "en_vyslovnost": "/prǝ'pǝuzl/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714063888
+  },
+  {
+    "cz": "oslava",
+    "en": "celebration",
+    "en_vyslovnost": "/seli'breıfn/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714064888
+  },
+  {
+    "cz": "komplikace",
+    "en": "complication",
+    "en_vyslovnost": "/komplr'kerfn/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714065888
+  },
+  {
+    "cz": "váhání",
+    "en": "hesitation",
+    "en_vyslovnost": "/hezı'ter∫n/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714066888
+  },
+  {
+    "cz": "pověst, reputace",
+    "en": "reputation",
+    "en_vyslovnost": "/repju'terſn/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714067888
+  },
+  {
+    "cz": "rezervace",
+    "en": "reservation",
+    "en_vyslovnost": "/rezǝ'verfn/",
+    "trida": 9,
+    "unit": 5,
+    "subunit": "d",
+    "timestamp": 1748714068888
+  },
+  {
+    "cz": "vykořisťovat, využívat",
+    "en": "exploit",
+    "en_vyslovnost": "/ˈɛk.splɔɪt/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "a",
+    "timestamp": 1748714069888
+  },
+  {
+    "cz": "líbit se",
+    "en": "fancy (v)",
+    "en_vyslovnost": "/ˈfæn.si/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "a",
+    "timestamp": 1748714070888
+  },
+  {
+    "cz": "rozdávat",
+    "en": "hand out",
+    "en_vyslovnost": "/hænd aʊt/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "a",
+    "timestamp": 1748714071888
+  },
+  {
+    "cz": "politika",
+    "en": "politics",
+    "en_vyslovnost": "/ˈpɒl.ɪ.tɪks/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "a",
+    "timestamp": 1748714072888
+  },
+  {
+    "cz": "protest",
+    "en": "protest (n)",
+    "en_vyslovnost": "/'prǝutest/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "a",
+    "timestamp": 1748714073888
+  },
+  {
+    "cz": "protestovat",
+    "en": "protest (v)",
+    "en_vyslovnost": "/prǝ'test/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "a",
+    "timestamp": 1748714074888
+  },
+  {
+    "cz": "výloha",
+    "en": "shop window",
+    "en_vyslovnost": "/fDp 'windǝu/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "a",
+    "timestamp": 1748714075888
+  },
+  {
+    "cz": "pracovní podmínky",
+    "en": "working conditions",
+    "en_vyslovnost": "/'w3ıkın kən, dı∫nz/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "a",
+    "timestamp": 1748714076888
+  },
+  {
+    "cz": "stát před soudem",
+    "en": "appear in court",
+    "en_vyslovnost": "/ə,pıər in 'kɔ:t/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714077888
+  },
+  {
+    "cz": "být zvolen",
+    "en": "be elected",
+    "en_vyslovnost": "/bi: r'lektid/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714078888
+  },
+  {
+    "cz": "dostat pokutu",
+    "en": "be fined",
+    "en_vyslovnost": "/bi 'faind/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714079888
+  },
+  {
+    "cz": "porušit zákon",
+    "en": "break the law",
+    "en_vyslovnost": "/breık də 'lə:/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714080888
+  },
+  {
+    "cz": "lidská práva",
+    "en": "civil rights",
+    "en_vyslovnost": "/ sıvl 'raits/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714081888
+  },
+  {
+    "cz": "vývoj",
+    "en": "development",
+    "en_vyslovnost": "/dı'veləpmənt/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714082888
+  },
+  {
+    "cz": "centrum města",
+    "en": "downtown",
+    "en_vyslovnost": "/'dauntaun/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714083888
+  },
+  {
+    "cz": "shledat (někoho) vinným",
+    "en": "find (somebody) guilty",
+    "en_vyslovnost": "/faınd... 'gılti/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714084888
+  },
+  {
+    "cz": "na protest",
+    "en": "in protest",
+    "en_vyslovnost": "/ın 'prǝutest/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714085888
+  },
+  {
+    "cz": "irský",
+    "en": "Irish",
+    "en_vyslovnost": "/'aırı∫/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714086888
+  },
+  {
+    "cz": "smíšená rasa",
+    "en": "mixed race",
+    "en_vyslovnost": "/'mıkst,reis/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714087888
+  },
+  {
+    "cz": "původní obyvatel Ameriky",
+    "en": "Native American",
+    "en_vyslovnost": "/neıtıv ə'merıkən/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714088888
+  },
+  {
+    "cz": "kazatel",
+    "en": "preacher",
+    "en_vyslovnost": "/'pri:tfə(r)/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714089888
+  },
+  {
+    "cz": "veřejné prostranství",
+    "en": "public place",
+    "en_vyslovnost": "/pablık 'plers/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714090888
+  },
+  {
+    "cz": "podle zákona",
+    "en": "under the law",
+    "en_vyslovnost": "/ən də 'lo:/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714091888
+  },
+  {
+    "cz": "bojkotovat, odmítat",
+    "en": "boycott",
+    "en_vyslovnost": "/'bəıkpt/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714092888
+  },
+  {
+    "cz": "demonstrace",
+    "en": "demonstration",
+    "en_vyslovnost": "/demən'streı∫n/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714093888
+  },
+  {
+    "cz": "pokuta",
+    "en": "fine (n)",
+    "en_vyslovnost": "/fain/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714094888
+  },
+  {
+    "cz": "nelegální, protizákonný",
+    "en": "illegal",
+    "en_vyslovnost": "/t'li:gl/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714095888
+  },
+  {
+    "cz": "odmítat",
+    "en": "refuse (v)",
+    "en_vyslovnost": "/rı'fju:z/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714096888
+  },
+  {
+    "cz": "oddělit, odloučit",
+    "en": "segregate",
+    "en_vyslovnost": "/'segrigeit/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714097888
+  },
+  {
+    "cz": "zastřelit",
+    "en": "shoot",
+    "en_vyslovnost": "/fu:t/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714098888
+  },
+  {
+    "cz": "nejvyšší soud",
+    "en": "the Supreme Court",
+    "en_vyslovnost": "/ðə su: pri:m,ko:t/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "b",
+    "timestamp": 1748714099888
+  },
+  {
+    "cz": "okres",
+    "en": "district",
+    "en_vyslovnost": "/'distrikt/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714100888
+  },
+  {
+    "cz": "inkoust, barva",
+    "en": "ink",
+    "en_vyslovnost": "/Ink/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714101888
+  },
+  {
+    "cz": "náplň do tiskárny",
+    "en": "printer cartridge",
+    "en_vyslovnost": "/'printə kaztrıdz/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714102888
+  },
+  {
+    "cz": "za rohem",
+    "en": "round the corner",
+    "en_vyslovnost": "/raund də 'kənə(r)/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714103888
+  },
+  {
+    "cz": "galerie umění",
+    "en": "art gallery",
+    "en_vyslovnost": "/'at gæləri/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714104888
+  },
+  {
+    "cz": "autobusové nádraží",
+    "en": "bus station",
+    "en_vyslovnost": "/'bas stern/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714105888
+  },
+  {
+    "cz": "bankomat",
+    "en": "cash machine",
+    "en_vyslovnost": "/'kæf mə, fi:n/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714106888
+  },
+  {
+    "cz": "internetová kavárna",
+    "en": "Internet café",
+    "en_vyslovnost": "/'ıntǝnet, kæfer/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714107888
+  },
+  {
+    "cz": "multikino",
+    "en": "multiplex cinema",
+    "en_vyslovnost": "/'maltıpleks, sınəmə/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714108888
+  },
+  {
+    "cz": "poštovní schránka",
+    "en": "postbox",
+    "en_vyslovnost": "/'pǝust, boks/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714109888
+  },
+  {
+    "cz": "obchodní centrum",
+    "en": "shopping mall",
+    "en_vyslovnost": "/Sopin mǝ:1/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714110888
+  },
+  {
+    "cz": "stanice metra",
+    "en": "underground station",
+    "en_vyslovnost": "/'Andəgraond, stern/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714111888
+  },
+  {
+    "cz": "turistická informační kancelář",
+    "en": "tourist information centre",
+    "en_vyslovnost": "/tuǝrıst infə'merfn sentə(r)/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714112888
+  },
+  {
+    "cz": "radnice",
+    "en": "town hall",
+    "en_vyslovnost": "/taon 'ho:l/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "c",
+    "timestamp": 1748714113888
+  },
+  {
+    "cz": "ples",
+    "en": "ball",
+    "en_vyslovnost": "/bɔːl/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714114888
+  },
+  {
+    "cz": "zoufalý",
+    "en": "desperate",
+    "en_vyslovnost": "/ˈdespərət/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714115888
+  },
+  {
+    "cz": "upadnout do kómatu",
+    "en": "go into a coma",
+    "en_vyslovnost": "/ɡəʊ ˈɪn.tuː ə ˈkəʊ.mə/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714116888
+  },
+  {
+    "cz": "v převleku",
+    "en": "in disguise",
+    "en_vyslovnost": "/ˌɪn dɪsˈɡaɪz/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714117888
+  },
+  {
+    "cz": "posel",
+    "en": "messenger",
+    "en_vyslovnost": "/ˈmesɪndʒə(r)/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714118888
+  },
+  {
+    "cz": "neteř",
+    "en": "niece",
+    "en_vyslovnost": "/niːs/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714119888
+  },
+  {
+    "cz": "kněz",
+    "en": "priest",
+    "en_vyslovnost": "/priːst/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714120888
+  },
+  {
+    "cz": "příbuzní",
+    "en": "related",
+    "en_vyslovnost": "/rɪˈleɪ.tɪd/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714121888
+  },
+  {
+    "cz": "bodnout, probodnout",
+    "en": "stab (v)",
+    "en_vyslovnost": "/stæb/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714122888
+  },
+  {
+    "cz": "hrobka",
+    "en": "tomb",
+    "en_vyslovnost": "/tuːm/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714123888
+  },
+  {
+    "cz": "trápení, strast",
+    "en": "woe",
+    "en_vyslovnost": "/wəʊ/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714124888
+  },
+  {
+    "cz": "zranit",
+    "en": "wound (v)",
+    "en_vyslovnost": "/wuːnd/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714125888
+  },
+  {
+    "cz": "titul (akademický)",
+    "en": "degree",
+    "en_vyslovnost": "/dɪˈɡriː/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714126888
+  },
+  {
+    "cz": "vývoj, evoluce",
+    "en": "evolution",
+    "en_vyslovnost": "/ˌiːvəˈluːʃən/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714127888
+  },
+  {
+    "cz": "bývalý",
+    "en": "former",
+    "en_vyslovnost": "/ˈfɔː.mə/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714128888
+  },
+  {
+    "cz": "zemská přitažlivost",
+    "en": "gravity",
+    "en_vyslovnost": "/ˈɡrævɪti/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714129888
+  },
+  {
+    "cz": "jízda na pramici s bidlem",
+    "en": "punting",
+    "en_vyslovnost": "/ˈpʌn.tɪŋ/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714130888
+  },
+  {
+    "cz": "teorie",
+    "en": "theory",
+    "en_vyslovnost": "/ˈθɪəri/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714131888
+  },
+  {
+    "cz": "obyvatelé města",
+    "en": "townspeople",
+    "en_vyslovnost": "/ˈtaʊnzpiːpl/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714132888
+  },
+  {
+    "cz": "kongres",
+    "en": "Congress",
+    "en_vyslovnost": "/ˈkɒŋɡres/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714133888
+  },
+  {
+    "cz": "osel",
+    "en": "donkey",
+    "en_vyslovnost": "/ˈdʌŋki/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714134888
+  },
+  {
+    "cz": "volby",
+    "en": "election",
+    "en_vyslovnost": "/ɪˈlekʃən/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714135888
+  },
+  {
+    "cz": "slon",
+    "en": "elephant",
+    "en_vyslovnost": "/ˈelɪfənt/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714136888
+  },
+  {
+    "cz": "hráčství",
+    "en": "gambling",
+    "en_vyslovnost": "/ˈɡæmblɪŋ/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714137888
+  },
+  {
+    "cz": "guvernér",
+    "en": "governor",
+    "en_vyslovnost": "/ˈɡʌvənə(r)/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714138888
+  },
+  {
+    "cz": "hlava státu",
+    "en": "head of state",
+    "en_vyslovnost": "/ˌhed əv ˈsteɪt/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714139888
+  },
+  {
+    "cz": "legální",
+    "en": "legal",
+    "en_vyslovnost": "/ˈliːɡəl/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714140888
+  },
+  {
+    "cz": "monarchie",
+    "en": "monarchy",
+    "en_vyslovnost": "/ˈmɒn.ə.ki/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714141888
+  },
+  {
+    "cz": "poslanec",
+    "en": "MP",
+    "en_vyslovnost": "/ˌemˈpiː/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714142888
+  },
+  {
+    "cz": "schválit zákon",
+    "en": "pass a law",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714143888
+  },
+  {
+    "cz": "politická strana",
+    "en": "political party",
+    "en_vyslovnost": "/pəˈlɪtɪkəl ˌpɑːti/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714144888
+  },
+  {
+    "cz": "zastupitel, poslanec",
+    "en": "representative",
+    "en_vyslovnost": "/ˌreprɪˈzentətɪv/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714145888
+  },
+  {
+    "cz": "republika",
+    "en": "republic",
+    "en_vyslovnost": "/rɪˈpʌblɪk/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714146888
+  },
+  {
+    "cz": "senátor",
+    "en": "senator",
+    "en_vyslovnost": "/ˈsenətə(r)/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714147888
+  },
+  {
+    "cz": "dolní sněmovna britského parlamentu",
+    "en": "the House of Commons",
+    "en_vyslovnost": "/ðə ˌhaʊs əv ˈkɒ.mənz/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714148888
+  },
+  {
+    "cz": "sněmovna lordů",
+    "en": "the House of Lords",
+    "en_vyslovnost": "/ðə ˌhaʊs əv ˈlɔːdz/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714149888
+  },
+  {
+    "cz": "sněmovna reprezentantů",
+    "en": "the House of Representatives",
+    "en_vyslovnost": "/ðə ˌhaʊs əv ˌrep.rɪˈzen.tə.tɪvz/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714150888
+  },
+  {
+    "cz": "senát",
+    "en": "the Senate",
+    "en_vyslovnost": "/ˈsen.ɪt/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714151888
+  },
+  {
+    "cz": "veto",
+    "en": "veto",
+    "en_vyslovnost": "/ˈviː.təʊ/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714152888
+  },
+  {
+    "cz": "téma",
+    "en": "topic",
+    "en_vyslovnost": "/ˈtɒp.ɪk/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714153888
+  },
+  {
+    "cz": "nastat, vzniknout",
+    "en": "arise",
+    "en_vyslovnost": "/əˈraɪz/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714154888
+  },
+  {
+    "cz": "pěstovat, šlechtit, plodit",
+    "en": "breed (v)",
+    "en_vyslovnost": "/briːd/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714155888
+  },
+  {
+    "cz": "zničit",
+    "en": "devastate",
+    "en_vyslovnost": "/ˈdevəsteɪt/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714156888
+  },
+  {
+    "cz": "bezmocný",
+    "en": "helpless",
+    "en_vyslovnost": "/ˈhelpləs/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714157888
+  },
+  {
+    "cz": "roztrousit",
+    "en": "scatter",
+    "en_vyslovnost": "/ˈskæt.ə/",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714158888
+  },
+  {
+    "cz": "utrpení",
+    "en": "suffering",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714215262
+  },
+  {
+    "cz": "bohatý, majetný",
+    "en": "wealthy",
+    "trida": 9,
+    "unit": 6,
+    "subunit": "d",
+    "timestamp": 1748714225189
   }
 ]
