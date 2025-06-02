@@ -40,5 +40,606 @@
   { "en": "twenty-second", "cz": "dvacátý druhý", "trida": 6, "unit": 1, "subunit": "a" },
   { "en": "thirtieth", "cz": "třicátý", "trida": 6, "unit": 1, "subunit": "a" },
 
+  { "en": "a long time", "cz": "dlouho", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "birthdaycake", "cz": "narozeninový dort", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "birthday card", "cz": "blahopřání k narozeninám", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "blow out", "cz": "sfouknout", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "bowling alley", "cz": "bowlingová dráha, bowling", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "candle", "cz": "svíčka", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "celebrate", "cz": "slavit", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "clean", "cz": "mýt, čistit", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "close to", "cz": "blízký k", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "date", "cz": "datum", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "decide", "cz": "rozhodnout (se)", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "each", "cz": "každý", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "extra", "cz": "navíc", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "flowers", "cz": "květiny", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "go on holiday", "cz": "jet na dovolenou / prázdniny", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "have a party", "cz": "pořádat oslavu, večírek", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "hear", "cz": "slyšet", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "important", "cz": "důležitý", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "in ... days'time", "cz": "za ... dní", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "list", "cz": "seznam", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "look at", "cz": "dívat se na", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "make a wish", "cz": "přát si", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "maybe", "cz": "možná", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "money", "cz": "peníze", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "month", "cz": "měsíc", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "name day", "cz": "svátek", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "not ... much", "cz": "ne ... moc", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "older", "cz": "starší", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "own", "cz": "vlastní", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "present", "cz": "dárek", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "problém", "cz": "problém", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "same", "cz": "stejný", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "someone / somebody", "cz": "někdo", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "somewhere", "cz": "někde", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "sweet", "cz": "sladkost", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "také", "cz": "vzít", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "toy", "cz": "hračka", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "January", "cz": "leden", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "February", "cz": "únor", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "March", "cz": "březen", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "April", "cz": "duben", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "May", "cz": "květen", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "June", "cz": "červen", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "July", "cz": "červenec", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "August", "cz": "srpen", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "September", "cz": "září", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "October", "cz": "říjen", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "November", "cz": "listopad", "trida": 6, "unit": 1, "subunit": "b" },
+  { "en": "December", "cz": "prosinec", "trida": 6, "unit": 1, "subunit": "b" },
+
+  { "en": "agree", "cz": "souhlasit", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "all", "cz": "všechny", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "answer", "cz": "odpověď, odpovědět", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "come from", "cz": "pocházet z", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "Good idea.", "cz": "Dobrý nápad.", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "hate", "cz": "nesnášet, nenávidět", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "l'm not sure.", "cz": "Nejsem si jistý/á.", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "l've got no  idea.", "cz": "Nemám tušení.", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "last", "cz": "poslední", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "mean", "cz": "znamenat", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "musical instrument", "cz": "hudební nástroj", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "oil", "cz": "ropa", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "penguin", "cz": "tučňák", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "polar bear", "cz": "lední medvěd", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "quiz", "cz": "kvíz", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "rubber", "cz": "guma", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "tree", "cz": "strom", "trida": 6, "unit": 1, "subunit": "c" },
+  { "en": "Well done!", "cz": "Dobrá práce!", "trida": 6, "unit": 1, "subunit": "c" },
+
+  { "en": "brilliant", "cz": "vynikající", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "busy", "cz": "zaneprázdněný", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "cup", "cz": "šálek, hrneček", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "do wrong", "cz": "udělat špatně", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "early", "cz": "brzo", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "exam results", "cz": "výsledky zkoušky", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "job", "cz": "práce, zaměstnání", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "knives and forks", "cz": "nože a vidličky", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "late (for)", "cz": "pozdě (do/ na)", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "meal", "cz": "jídlo", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "plate", "cz": "talíř", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "text", "cz": "posílat sms zprávy", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "cook the diner", "cz": "vařit večeři", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "do the shopping", "cz": "nakupovat", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "feed the cat", "cz": "krmit kočku", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "load the dishwasher", "cz": "dát nádobí do myčky", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "make the bed", "cz": "ustlat postel", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "set the table", "cz": "prostřít stůl", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "take / put out the recycling", "cz": "vynést tříděný odpad", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "take the dog for a walk", "cz": "vyvenčit psa", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "tidy your room", "cz": "ukliclit svůj pokoj", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "vacuum the floor", "cz": "vyluxovat podlahu", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "always", "cz": "vždycky", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "never", "cz": "nikdy", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "not often", "cz": "ne často", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "often", "cz": "často", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "sometimes", "cz": "někdy", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "usually / normaly", "cz": "obvykle, normálně", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "autumn", "cz": "podzim", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "beginning", "cz": "začátek", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "bun", "cz": "bochánek", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "chocolate egg", "cz": "čokoládové vajíčko", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "come together", "cz": "sejít se", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "decorate", "cz": "ozdobit, vyzdobit", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "decoration", "cz": "ozdoba, dekorace", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "festival", "cz": "svátek", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "fireworks", "cz": "ohňostroj", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "followed by", "cz": "následovaný (čím)", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "go shopping", "cz": "jít nakupovat", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "half-term holiday", "cz": "prázdniny uprostřed semestru (pololetí)", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "hide", "cz": "schovat", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "How long ... ?", "cz": "Jak dlouho ... ?", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "hunt", "cz": "hledání, hon", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "in the middle of", "cz": "uprostřed (čeho)", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "last", "cz": "trvat", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "match", "cz": "sportovní zápas, přiřadit, spojit", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "midnight", "cz": "půlnoc", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "music", "cz": "hudba", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "next", "cz": "další, následující", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "put up", "cz": "rozvěsit, vystavit", "trida": 6, "unit": 1, "subunit": "d" },
+  { "en": "sale", "cz": "výprodej", "trida": 6, "unit": 1, "subunit": "d" },
+  {
+    "en": "several",
+    "cz": "několik",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "spring",
+    "cz": "jaro",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "street party",
+    "cz": "oslava v ulicích",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "strike midnight",
+    "cz": "odbít půlnoc",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "sweet",
+    "cz": "sladký",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "switch on",
+    "cz": "zapnout",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "term",
+    "cz": "semestr, pololetí",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "traditional",
+    "cz": "tradiční",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "turkey",
+    "cz": "krocan, krůta",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "typical",
+    "cz": "typický",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "vegetable",
+    "cz": "zelenina",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "visit",
+    "cz": "navštívit",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Boxing Day",
+    "cz": "Druhý svátek vánoční, sv. Štěpána",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Christmas",
+    "cz": "Vánoce",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Christmas Day",
+    "cz": "První svátek vánoční, Boží hod vánoční",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Christmas Eve",
+    "cz": "Štědrý večer",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Christmas pudding",
+    "cz": "vánoční pudink",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Christmas tree",
+    "cz": "vánoční stromeček",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Easter",
+    "cz": "Velikonoce",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Easter egg",
+    "cz": "velikonoční vajíčko",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Easter egg hunt",
+    "cz": "hledání velikonočních vajíček",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Easter Monday",
+    "cz": "Velikonoční pondělí",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Easter Sunday",
+    "cz": "Velikonoční neděle",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Good Friday",
+    "cz": "Velký pátek",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "NewYear",
+    "cz": "Nový rok",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "NewYear's Eve",
+    "cz": "Silvestr",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "add",
+    "cz": "přidat",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "at night",
+    "cz": "v noci",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Earth",
+    "cz": "Země",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "fix",
+    "cz": "stanovit, určit",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "for example",
+    "cz": "například",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "go round",
+    "cz": "obíhat",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "in fact",
+    "cz": "vlastně",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "leap year",
+    "cz": "přestupný rok",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "minute",
+    "cz": "minuta",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Moon",
+    "cz": "Měsíc",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "need",
+    "cz": "potřebovat",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "nobody",
+    "cz": "nikdo",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "once",
+    "cz": "jednou",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "period",
+    "cz": "období",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "sleep",
+    "cz": "spát",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "still",
+    "cz": "stále",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "Sun",
+    "cz": "Slunce",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "tie your shoelaces",
+    "cz": "zavázat si tkaničky",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "turn",
+    "cz": "otáčet se",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "until (till)",
+    "cz": "do té doby",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "use",
+    "cz": "používat",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "dislike",
+    "cz": "nemít rád",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "event",
+    "cz": "událost",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "go sledging",
+    "cz": "jít sáňkovat",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "illustrate",
+    "cz": "ilustrovat, dokreslit",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "mind",
+    "cz": "mysl",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "plan",
+    "cz": "plánovat",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "rest",
+    "cz": "odpočinek",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "scrapbook",
+    "cz": "kniha/ sešit na výstřižky, album",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "snow",
+    "cz": "sněžit",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "stay",
+    "cz": "zůstat",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "think about",
+    "cz": "přemýšlet o",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "title",
+    "cz": "název",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+  {
+    "en": "trumpet",
+    "cz": "trubka",
+    "en_vyslovnost": "",
+    "trida": 6,
+    "unit": 1,
+    "subunit": "d"
+  },
+
 
 ]
